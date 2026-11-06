@@ -1,0 +1,7532 @@
+{
+ "meta": {
+  "title": "中国科学引文数据库（CSCD）来源期刊列表 2025-2026",
+  "source": "http://sciencechina.cn/scichina2/style/sourcelist25_26.pdf",
+  "core": 1120,
+  "extended": 384,
+  "total": 1504,
+  "fetched": "2026-11-07"
+ },
+ "journals": [
+  {
+   "name": "aBIOTECH",
+   "issn": "2096-6326",
+   "level": "核心库"
+  },
+  {
+   "name": "Accounts of Materials Research",
+   "issn": "2643-6728",
+   "level": "核心库"
+  },
+  {
+   "name": "Acta Biochimica et Biophysica Sinica",
+   "issn": "1672-9145",
+   "level": "核心库"
+  },
+  {
+   "name": "Acta epileptologica",
+   "issn": "2096-9384",
+   "level": "核心库"
+  },
+  {
+   "name": "Acta Geochimica",
+   "issn": "2096-0956",
+   "level": "核心库"
+  },
+  {
+   "name": "Acta Geologica Sinica",
+   "issn": "1000-9515",
+   "level": "核心库"
+  },
+  {
+   "name": "Acta Mathematica Scientia",
+   "issn": "0252-9602",
+   "level": "核心库"
+  },
+  {
+   "name": "Acta Mathematica Sinica. English Series",
+   "issn": "1439-8516",
+   "level": "核心库"
+  },
+  {
+   "name": "Acta Mathematicae Applicatae Sinica-English Series",
+   "issn": "0168-9673",
+   "level": "核心库"
+  },
+  {
+   "name": "Acta Mechanica Sinica",
+   "issn": "0567-7718",
+   "level": "核心库"
+  },
+  {
+   "name": "Acta Mechanica Solida Sinica",
+   "issn": "0894-9166",
+   "level": "核心库"
+  },
+  {
+   "name": "Acta Metallurgica Sinica-English Letters",
+   "issn": "1006-7191",
+   "level": "核心库"
+  },
+  {
+   "name": "Acta Oceanologica Sinica",
+   "issn": "0253-505X",
+   "level": "核心库"
+  },
+  {
+   "name": "Acta Pharmaceutica Sinica B",
+   "issn": "2211-3835",
+   "level": "核心库"
+  },
+  {
+   "name": "Acta Pharmacologica Sinica",
+   "issn": "1671-4083",
+   "level": "核心库"
+  },
+  {
+   "name": "Acupuncture and Herbal Medicine",
+   "issn": "2097-0226",
+   "level": "核心库"
+  },
+  {
+   "name": "Additive Manufacturing Frontiers",
+   "issn": "2950-4317",
+   "level": "核心库"
+  },
+  {
+   "name": "Advanced Agrochem",
+   "issn": "2773-2371",
+   "level": "核心库"
+  },
+  {
+   "name": "Advanced Fiber Materials",
+   "issn": "2524-7921",
+   "level": "核心库"
+  },
+  {
+   "name": "Advanced Photonics",
+   "issn": "2577-5421",
+   "level": "核心库"
+  },
+  {
+   "name": "Advanced Photonics Nexus",
+   "issn": "2791-1519",
+   "level": "核心库"
+  },
+  {
+   "name": "Advanced Powder Materials",
+   "issn": "2772-834X",
+   "level": "核心库"
+  },
+  {
+   "name": "Advances in Applied Mathematics and Mechanics",
+   "issn": "2070-0733",
+   "level": "核心库"
+  },
+  {
+   "name": "Advances in Atmospheric Sciences",
+   "issn": "0256-1530",
+   "level": "核心库"
+  },
+  {
+   "name": "Advances in Climate Change Research",
+   "issn": "1674-9278",
+   "level": "核心库"
+  },
+  {
+   "name": "Advances in Manufacturing",
+   "issn": "2095-3127",
+   "level": "核心库"
+  },
+  {
+   "name": "Advances in Polar Science",
+   "issn": "1674-9928",
+   "level": "核心库"
+  },
+  {
+   "name": "Aerospace Systems",
+   "issn": "2523-3947",
+   "level": "核心库"
+  },
+  {
+   "name": "Aggregate",
+   "issn": "2692-4560",
+   "level": "核心库"
+  },
+  {
+   "name": "Algebra Colloquium",
+   "issn": "1005-3867",
+   "level": "核心库"
+  },
+  {
+   "name": "Animal Diseases",
+   "issn": "2731-0442",
+   "level": "核心库"
+  },
+  {
+   "name": "Animal Models and Experimental Medicine",
+   "issn": "2096-5451",
+   "level": "核心库"
+  },
+  {
+   "name": "Animal Nutrition",
+   "issn": "2405-6545",
+   "level": "核心库"
+  },
+  {
+   "name": "Applied Geophysics",
+   "issn": "1672-7975",
+   "level": "核心库"
+  },
+  {
+   "name": "Applied Mathematics and Mechanics",
+   "issn": "0253-4827",
+   "level": "核心库"
+  },
+  {
+   "name": "Applied Mathematics. Series B, A Journal of Chinese Universities",
+   "issn": "1005-1031",
+   "level": "核心库"
+  },
+  {
+   "name": "Aquaculture and Fisheries",
+   "issn": "2096-1758",
+   "level": "核心库"
+  },
+  {
+   "name": "Artificial Intelligence in Agriculture",
+   "issn": "2589-7217",
+   "level": "核心库"
+  },
+  {
+   "name": "Artificial Intelligence in Geosciences",
+   "issn": "2666-5441",
+   "level": "核心库"
+  },
+  {
+   "name": "Asia Pacific Journal of Clinical Nutrition",
+   "issn": "0964-7058",
+   "level": "核心库"
+  },
+  {
+   "name": "Asian Herpetological Research",
+   "issn": "2095-0357",
+   "level": "核心库"
+  },
+  {
+   "name": "Asian Journal of Andrology",
+   "issn": "1008-682X",
+   "level": "核心库"
+  },
+  {
+   "name": "Asian Journal of Pharmaceutical Sciences",
+   "issn": "1818-0876",
+   "level": "核心库"
+  },
+  {
+   "name": "Asian Journal of Urology",
+   "issn": "2214-3882",
+   "level": "核心库"
+  },
+  {
+   "name": "Astrodynamics",
+   "issn": "2522-008X",
+   "level": "核心库"
+  },
+  {
+   "name": "Astronomical Techniques and Instruments",
+   "issn": "2097-3675",
+   "level": "核心库"
+  },
+  {
+   "name": "Atmospheric and Oceanic Science Letters",
+   "issn": "1674-2834",
+   "level": "核心库"
+  },
+  {
+   "name": "Automotive Innovation",
+   "issn": "2096-4250",
+   "level": "核心库"
+  },
+  {
+   "name": "Avian Research",
+   "issn": "2055-6187",
+   "level": "核心库"
+  },
+  {
+   "name": "Big Data Mining and Analytics",
+   "issn": "2096-0654",
+   "level": "核心库"
+  },
+  {
+   "name": "Big Earth Data",
+   "issn": "2096-4471",
+   "level": "核心库"
+  },
+  {
+   "name": "Bioactive Materials",
+   "issn": "2097-1192",
+   "level": "核心库"
+  },
+  {
+   "name": "Biochar",
+   "issn": "2524-7972",
+   "level": "核心库"
+  },
+  {
+   "name": "Bio-Design and Manufacturing",
+   "issn": "2096-5524",
+   "level": "核心库"
+  },
+  {
+   "name": "Biomedical and Environmental Sciences",
+   "issn": "0895-3988",
+   "level": "核心库"
+  },
+  {
+   "name": "Biomimetic Intelligence and Robotics",
+   "issn": "2097-0242",
+   "level": "核心库"
+  },
+  {
+   "name": "Biophysics Reports",
+   "issn": "2364-3439",
+   "level": "核心库"
+  },
+  {
+   "name": "Bioresources and Bioprocessing",
+   "issn": "2197-4365",
+   "level": "核心库"
+  },
+  {
+   "name": "Biosafety and Health",
+   "issn": "2096-6962",
+   "level": "核心库"
+  },
+  {
+   "name": "Blockchain: Research and Applications",
+   "issn": "2096-7209",
+   "level": "核心库"
+  },
+  {
+   "name": "BMEMat",
+   "issn": "2751-7438",
+   "level": "核心库"
+  },
+  {
+   "name": "Bone Research",
+   "issn": "2095-4700",
+   "level": "核心库"
+  },
+  {
+   "name": "Building Simulation",
+   "issn": "1996-3599",
+   "level": "核心库"
+  },
+  {
+   "name": "Built Heritage",
+   "issn": "2096-3041",
+   "level": "核心库"
+  },
+  {
+   "name": "Burns & Trauma",
+   "issn": "2321-3868",
+   "level": "核心库"
+  },
+  {
+   "name": "CAAI Transactions on Intelligence Technology",
+   "issn": "2468-6557",
+   "level": "核心库"
+  },
+  {
+   "name": "Cancer Biology and Medicine",
+   "issn": "2095-3941",
+   "level": "核心库"
+  },
+  {
+   "name": "Cancer Communications",
+   "issn": "2523-3548",
+   "level": "核心库"
+  },
+  {
+   "name": "Cancer Innovation",
+   "issn": "2770-9191",
+   "level": "核心库"
+  },
+  {
+   "name": "Carbon and Hydrogen",
+   "issn": "2097-535X",
+   "level": "核心库"
+  },
+  {
+   "name": "Carbon Energy",
+   "issn": "2096-9570",
+   "level": "核心库"
+  },
+  {
+   "name": "Carbon Neutrality",
+   "issn": "2788-8614",
+   "level": "核心库"
+  },
+  {
+   "name": "Carbon Resources Conversion",
+   "issn": "2588-9133",
+   "level": "核心库"
+  },
+  {
+   "name": "CCF Transactions on High Performance Computing",
+   "issn": "2524-4922",
+   "level": "核心库"
+  },
+  {
+   "name": "CCS Chemistry",
+   "issn": "2096-5745",
+   "level": "核心库"
+  },
+  {
+   "name": "Cell Research",
+   "issn": "1001-0602",
+   "level": "核心库"
+  },
+  {
+   "name": "Cellular & Molecular Immunology",
+   "issn": "1672-7681",
+   "level": "核心库"
+  },
+  {
+   "name": "CES Transactions on Electrical Machines and Systems",
+   "issn": "2096-3564",
+   "level": "核心库"
+  },
+  {
+   "name": "Chemical & Biomedical Imaging",
+   "issn": "2832-3637",
+   "level": "核心库"
+  },
+  {
+   "name": "Chemical Research in Chinese Universities",
+   "issn": "1005-9040",
+   "level": "核心库"
+  },
+  {
+   "name": "ChemPhysMater",
+   "issn": "2772-5715",
+   "level": "核心库"
+  },
+  {
+   "name": "China CDC Weekly",
+   "issn": "2096-7071",
+   "level": "核心库"
+  },
+  {
+   "name": "China City Planning Review",
+   "issn": "1002-8447",
+   "level": "核心库"
+  },
+  {
+   "name": "China Communications",
+   "issn": "1673-5447",
+   "level": "核心库"
+  },
+  {
+   "name": "China Foundry",
+   "issn": "1672-6421",
+   "level": "核心库"
+  },
+  {
+   "name": "China Geology",
+   "issn": "2096-5192",
+   "level": "核心库"
+  },
+  {
+   "name": "China Ocean Engineering",
+   "issn": "0890-5487",
+   "level": "核心库"
+  },
+  {
+   "name": "Chinese Annals of Mathematics. Series B",
+   "issn": "0252-9599",
+   "level": "核心库"
+  },
+  {
+   "name": "Chinese Chemical Letters",
+   "issn": "1001-8417",
+   "level": "核心库"
+  },
+  {
+   "name": "Chinese Geographical Science",
+   "issn": "1002-0063",
+   "level": "核心库"
+  },
+  {
+   "name": "Chinese Herbal Medicines",
+   "issn": "1674-6384",
+   "level": "核心库"
+  },
+  {
+   "name": "Chinese Journal of Aeronautics",
+   "issn": "1000-9361",
+   "level": "核心库"
+  },
+  {
+   "name": "Chinese Journal of Cancer Research",
+   "issn": "1000-9604",
+   "level": "核心库"
+  },
+  {
+   "name": "Chinese Journal of Catalysis",
+   "issn": "0253-9837",
+   "level": "核心库"
+  },
+  {
+   "name": "Chinese Journal of Chemical Engineering",
+   "issn": "1004-9541",
+   "level": "核心库"
+  },
+  {
+   "name": "Chinese Journal of Chemical Physics",
+   "issn": "1674-0068",
+   "level": "核心库"
+  },
+  {
+   "name": "Chinese Journal of Chemistry",
+   "issn": "1001-604X",
+   "level": "核心库"
+  },
+  {
+   "name": "Chinese Journal of Electrical Engineering",
+   "issn": "2096-1529",
+   "level": "核心库"
+  },
+  {
+   "name": "Chinese Journal of Electronics",
+   "issn": "1022-4653",
+   "level": "核心库"
+  },
+  {
+   "name": "Chinese Journal of Integrative Medicine",
+   "issn": "1672-0415",
+   "level": "核心库"
+  },
+  {
+   "name": "Chinese Journal of Mechanical Engineering",
+   "issn": "1000-9345",
+   "level": "核心库"
+  },
+  {
+   "name": "Chinese Journal of Natural Medicines",
+   "issn": "2095-6975",
+   "level": "核心库"
+  },
+  {
+   "name": "Chinese Journal of Polymer Science",
+   "issn": "0256-7679",
+   "level": "核心库"
+  },
+  {
+   "name": "Chinese Journal of Population, Resources and Environment",
+   "issn": "2096-9589",
+   "level": "核心库"
+  },
+  {
+   "name": "Chinese Journal of Structural Chemistry",
+   "issn": "0254-5861",
+   "level": "核心库"
+  },
+  {
+   "name": "Chinese Journal of Traumatology",
+   "issn": "1008-1275",
+   "level": "核心库"
+  },
+  {
+   "name": "Chinese Medical Journal",
+   "issn": "0366-6999",
+   "level": "核心库"
+  },
+  {
+   "name": "Chinese Medical Sciences Journal",
+   "issn": "1001-9294",
+   "level": "核心库"
+  },
+  {
+   "name": "Chinese Neurosurgical Journal",
+   "issn": "2095-9370",
+   "level": "核心库"
+  },
+  {
+   "name": "Chinese Optics Letters",
+   "issn": "1671-7694",
+   "level": "核心库"
+  },
+  {
+   "name": "Chinese Physics Letters",
+   "issn": "0256-307X",
+   "level": "核心库"
+  },
+  {
+   "name": "Chinese Physics. B",
+   "issn": "1674-1056",
+   "level": "核心库"
+  },
+  {
+   "name": "Chinese Physics. C",
+   "issn": "1674-1137",
+   "level": "核心库"
+  },
+  {
+   "name": "Chip",
+   "issn": "2709-4723",
+   "level": "核心库"
+  },
+  {
+   "name": "Chronic Diseases and Translational Medicine",
+   "issn": "2095-882X",
+   "level": "核心库"
+  },
+  {
+   "name": "Clean Energy",
+   "issn": "2515-4230",
+   "level": "核心库"
+  },
+  {
+   "name": "Collagen and Leather",
+   "issn": "2097-1419",
+   "level": "核心库"
+  },
+  {
+   "name": "Communications in Computational Physics",
+   "issn": "1815-2406",
+   "level": "核心库"
+  },
+  {
+   "name": "Communications in Mathematics and Statistics",
+   "issn": "2194-6701",
+   "level": "核心库"
+  },
+  {
+   "name": "Communications in Theoretical Physics",
+   "issn": "0253-6102",
+   "level": "核心库"
+  },
+  {
+   "name": "Communications in Transportation Research",
+   "issn": "2772-4247",
+   "level": "核心库"
+  },
+  {
+   "name": "Communications on Applied Mathematics and Computation",
+   "issn": "2096-6385",
+   "level": "核心库"
+  },
+  {
+   "name": "Communications on Pure and Applied Analysis",
+   "issn": "1534-0392",
+   "level": "核心库"
+  },
+  {
+   "name": "Computational Visual Media",
+   "issn": "2096-0433",
+   "level": "核心库"
+  },
+  {
+   "name": "Control Theory and Technology",
+   "issn": "2095-6983",
+   "level": "核心库"
+  },
+  {
+   "name": "Corrosion Communications",
+   "issn": "2667-2669",
+   "level": "核心库"
+  },
+  {
+   "name": "CSEE Journal of Power and Energy Systems",
+   "issn": "2096-0042",
+   "level": "核心库"
+  },
+  {
+   "name": "Current Medical Science",
+   "issn": "2096-5230",
+   "level": "核心库"
+  },
+  {
+   "name": "Current Urology",
+   "issn": "1661-7649",
+   "level": "核心库"
+  },
+  {
+   "name": "Current Zoology",
+   "issn": "1674-5507",
+   "level": "核心库"
+  },
+  {
+   "name": "Cybersecurity",
+   "issn": "2096-4862",
+   "level": "核心库"
+  },
+  {
+   "name": "Cyborg and Bionic Systems",
+   "issn": "2097-1087",
+   "level": "核心库"
+  },
+  {
+   "name": "Data Intelligence",
+   "issn": "2096-7004",
+   "level": "核心库"
+  },
+  {
+   "name": "Data Science and Management",
+   "issn": "2666-7649",
+   "level": "核心库"
+  },
+  {
+   "name": "Deep Underground Science and Engineering",
+   "issn": "2097-0668",
+   "level": "核心库"
+  },
+  {
+   "name": "Defence Technology",
+   "issn": "2096-3459",
+   "level": "核心库"
+  },
+  {
+   "name": "Digital Chinese Medicine",
+   "issn": "2096-479X",
+   "level": "核心库"
+  },
+  {
+   "name": "Digital Communications and Networks",
+   "issn": "2468-5925",
+   "level": "核心库"
+  },
+  {
+   "name": "Droplet",
+   "issn": "2769-2159",
+   "level": "核心库"
+  },
+  {
+   "name": "Earth and Planetary Physics",
+   "issn": "2096-3955",
+   "level": "核心库"
+  },
+  {
+   "name": "Earthquake Engineering and Engineering Vibration",
+   "issn": "1671-3664",
+   "level": "核心库"
+  },
+  {
+   "name": "Earthquake Research Advances",
+   "issn": "2096-9996",
+   "level": "核心库"
+  },
+  {
+   "name": "Earthquake Science",
+   "issn": "1674-4519",
+   "level": "核心库"
+  },
+  {
+   "name": "Eco-Environment & Health",
+   "issn": "2772-9850",
+   "level": "核心库"
+  },
+  {
+   "name": "Ecological Frontiers",
+   "issn": "2950-5097",
+   "level": "核心库"
+  },
+  {
+   "name": "Ecological Processes",
+   "issn": "2097-1311",
+   "level": "核心库"
+  },
+  {
+   "name": "Ecosystem Health and Sustainability",
+   "issn": "2096-4129",
+   "level": "核心库"
+  },
+  {
+   "name": "Emerging Contaminants",
+   "issn": "2405-6650",
+   "level": "核心库"
+  },
+  {
+   "name": "Energy and AI",
+   "issn": "2666-5468",
+   "level": "核心库"
+  },
+  {
+   "name": "Energy and Built Environment",
+   "issn": "2666-1233",
+   "level": "核心库"
+  },
+  {
+   "name": "Energy and Environmental Material",
+   "issn": "2575-0348",
+   "level": "核心库"
+  },
+  {
+   "name": "Energy Geoscience",
+   "issn": "2666-7592",
+   "level": "核心库"
+  },
+  {
+   "name": "Energy Material Advances",
+   "issn": "2097-1133",
+   "level": "核心库"
+  },
+  {
+   "name": "Engineered Regeneration",
+   "issn": "2666-1381",
+   "level": "核心库"
+  },
+  {
+   "name": "Engineering",
+   "issn": "2095-8099",
+   "level": "核心库"
+  },
+  {
+   "name": "Engineering Microbiology",
+   "issn": "2667-3703",
+   "level": "核心库"
+  },
+  {
+   "name": "Entomotaxonomia",
+   "issn": "2095-8609",
+   "level": "核心库"
+  },
+  {
+   "name": "Environment & Health",
+   "issn": "2833-8278",
+   "level": "核心库"
+  },
+  {
+   "name": "Environmental Science and Ecotechnology",
+   "issn": "2666-4984",
+   "level": "核心库"
+  },
+  {
+   "name": "eScience",
+   "issn": "2097-2431",
+   "level": "核心库"
+  },
+  {
+   "name": "Experimental and Computational Multiphase Flow",
+   "issn": "2661-8869",
+   "level": "核心库"
+  },
+  {
+   "name": "Eye and Vision",
+   "issn": "2326-0246",
+   "level": "核心库"
+  },
+  {
+   "name": "Food Production, Processing and Nutrition",
+   "issn": "2661-8974",
+   "level": "核心库"
+  },
+  {
+   "name": "Food Quality and Safety",
+   "issn": "2399-1399",
+   "level": "核心库"
+  },
+  {
+   "name": "Food Science and Human Wellness",
+   "issn": "2097-0765",
+   "level": "核心库"
+  },
+  {
+   "name": "Forensic Sciences Research",
+   "issn": "2096-1790",
+   "level": "核心库"
+  },
+  {
+   "name": "Forest Ecosystems",
+   "issn": "2095-6355",
+   "level": "核心库"
+  },
+  {
+   "name": "Friction",
+   "issn": "2223-7690",
+   "level": "核心库"
+  },
+  {
+   "name": "Frontiers in Energy",
+   "issn": "2095-1701",
+   "level": "核心库"
+  },
+  {
+   "name": "Frontiers of Agricultural Science and Engineering",
+   "issn": "2095-7505",
+   "level": "核心库"
+  },
+  {
+   "name": "Frontiers of Architectural Research",
+   "issn": "2095-2635",
+   "level": "核心库"
+  },
+  {
+   "name": "Frontiers of Chemical Science and Engineering",
+   "issn": "2095-0179",
+   "level": "核心库"
+  },
+  {
+   "name": "Frontiers of Computer Science",
+   "issn": "2095-2228",
+   "level": "核心库"
+  },
+  {
+   "name": "Frontiers of Earth Science",
+   "issn": "2095-0195",
+   "level": "核心库"
+  },
+  {
+   "name": "Frontiers of Engineering Management",
+   "issn": "2095-7513",
+   "level": "核心库"
+  },
+  {
+   "name": "Frontiers of Environmental Science & Engineering",
+   "issn": "2095-2201",
+   "level": "核心库"
+  },
+  {
+   "name": "Frontiers of Information Technology & Electronic Engineering",
+   "issn": "2095-9184",
+   "level": "核心库"
+  },
+  {
+   "name": "Frontiers of Materials Science",
+   "issn": "2095-025X",
+   "level": "核心库"
+  },
+  {
+   "name": "Frontiers of Mechanical Engineering",
+   "issn": "2095-0233",
+   "level": "核心库"
+  },
+  {
+   "name": "Frontiers of Medicine",
+   "issn": "2095-0217",
+   "level": "核心库"
+  },
+  {
+   "name": "Frontiers of Optoelectronics",
+   "issn": "2095-2759",
+   "level": "核心库"
+  },
+  {
+   "name": "Frontiers of Physics",
+   "issn": "2095-0462",
+   "level": "核心库"
+  },
+  {
+   "name": "Frontiers of Structural and Civil Engineering",
+   "issn": "2095-2430",
+   "level": "核心库"
+  },
+  {
+   "name": "Fundamental Research",
+   "issn": "2096-9457",
+   "level": "核心库"
+  },
+  {
+   "name": "Gastroenterology Report",
+   "issn": "2304-1412",
+   "level": "核心库"
+  },
+  {
+   "name": "General Psychiatry",
+   "issn": "2096-5923",
+   "level": "核心库"
+  },
+  {
+   "name": "Genes & Diseases",
+   "issn": "2352-4820",
+   "level": "核心库"
+  },
+  {
+   "name": "Genomics, Proteomics & Bioinformatics",
+   "issn": "1672-0229",
+   "level": "核心库"
+  },
+  {
+   "name": "Geodesy and Geodynamics",
+   "issn": "1674-9847",
+   "level": "核心库"
+  },
+  {
+   "name": "Geography and Sustainability",
+   "issn": "2096-7438",
+   "level": "核心库"
+  },
+  {
+   "name": "Geoscience Frontiers",
+   "issn": "1674-9871",
+   "level": "核心库"
+  },
+  {
+   "name": "Geo-spatial Information Science",
+   "issn": "1009-5020",
+   "level": "核心库"
+  },
+  {
+   "name": "Global Energy Interconnection",
+   "issn": "2096-5117",
+   "level": "核心库"
+  },
+  {
+   "name": "Global Health Research and Policy",
+   "issn": "2397-0642",
+   "level": "核心库"
+  },
+  {
+   "name": "Green and Smart Mining Engineering",
+   "issn": "2950-5550",
+   "level": "核心库"
+  },
+  {
+   "name": "Green Carbon",
+   "issn": "2950-1555",
+   "level": "核心库"
+  },
+  {
+   "name": "Green Chemical Engineering",
+   "issn": "2096-9147",
+   "level": "核心库"
+  },
+  {
+   "name": "Green Energy & Environment",
+   "issn": "2096-2797",
+   "level": "核心库"
+  },
+  {
+   "name": "Green Energy and Intelligent Transportation",
+   "issn": "2097-2512",
+   "level": "核心库"
+  },
+  {
+   "name": "Green Synthesis and Catalysis",
+   "issn": "2666-5549",
+   "level": "核心库"
+  },
+  {
+   "name": "Guidance, Navigation and Control",
+   "issn": "2737-4807",
+   "level": "核心库"
+  },
+  {
+   "name": "Health Care Science",
+   "issn": "2771-1749",
+   "level": "核心库"
+  },
+  {
+   "name": "Hepatobiliary & Pancreatic Diseases International",
+   "issn": "1499-3872",
+   "level": "核心库"
+  },
+  {
+   "name": "High Power Laser Science and Engineering",
+   "issn": "2095-4719",
+   "level": "核心库"
+  },
+  {
+   "name": "High Voltage",
+   "issn": "2096-9813",
+   "level": "核心库"
+  },
+  {
+   "name": "High-Confidence Computing",
+   "issn": "2667-2952",
+   "level": "核心库"
+  },
+  {
+   "name": "hLife",
+   "issn": "2949-9283",
+   "level": "核心库"
+  },
+  {
+   "name": "Holistic Integrative Oncology",
+   "issn": "2731-4529",
+   "level": "核心库"
+  },
+  {
+   "name": "Horticultural Plant Journal",
+   "issn": "2095-9885",
+   "level": "核心库"
+  },
+  {
+   "name": "Horticulture Research",
+   "issn": "2662-6810",
+   "level": "核心库"
+  },
+  {
+   "name": "IEEE/CAA Journal of Automatica Sinica",
+   "issn": "2329-9266",
+   "level": "核心库"
+  },
+  {
+   "name": "Industrial Chemistry & Materials",
+   "issn": "2755-2500",
+   "level": "核心库"
+  },
+  {
+   "name": "Infectious Disease Modelling",
+   "issn": "2468-2152",
+   "level": "核心库"
+  },
+  {
+   "name": "Infectious Diseases & Immunity",
+   "issn": "2096-9511",
+   "level": "核心库"
+  },
+  {
+   "name": "Infectious Diseases of Poverty",
+   "issn": "2095-5162",
+   "level": "核心库"
+  },
+  {
+   "name": "Infectious Medicine",
+   "issn": "2097-0684",
+   "level": "核心库"
+  },
+  {
+   "name": "Infectious Microbes & Diseases",
+   "issn": "2641-5917",
+   "level": "核心库"
+  },
+  {
+   "name": "InfoMat",
+   "issn": "2770-5110",
+   "level": "核心库"
+  },
+  {
+   "name": "Information Processing in Agriculture",
+   "issn": "2097-0153",
+   "level": "核心库"
+  },
+  {
+   "name": "Inorganic Chemistry Frontiers",
+   "issn": "2052-1545",
+   "level": "核心库"
+  },
+  {
+   "name": "Insect Science",
+   "issn": "1672-9609",
+   "level": "核心库"
+  },
+  {
+   "name": "Integrative Zoology",
+   "issn": "1749-4869",
+   "level": "核心库"
+  },
+  {
+   "name": "Interdisciplinary Materials",
+   "issn": "2767-4401",
+   "level": "核心库"
+  },
+  {
+   "name": "International Journal of Coal Science & Technology",
+   "issn": "2095-8293",
+   "level": "核心库"
+  },
+  {
+   "name": "International Journal of Dermatology and Venereology",
+   "issn": "2096-5540",
+   "level": "核心库"
+  },
+  {
+   "name": "International Journal of Disaster Risk Science",
+   "issn": "2095-0055",
+   "level": "核心库"
+  },
+  {
+   "name": "International Journal of Extreme Manufacturing",
+   "issn": "2631-8644",
+   "level": "核心库"
+  },
+  {
+   "name": "International Journal of Fluid Engineering",
+   "issn": "2994-9009",
+   "level": "核心库"
+  },
+  {
+   "name": "International Journal of Mechanical System Dynamics",
+   "issn": "2767-1399",
+   "level": "核心库"
+  },
+  {
+   "name": "International Journal of Minerals, Metallurgy and Materials",
+   "issn": "1674-4799",
+   "level": "核心库"
+  },
+  {
+   "name": "International Journal of Mining Science and Technology",
+   "issn": "2095-2686",
+   "level": "核心库"
+  },
+  {
+   "name": "International Journal of Nursing Sciences",
+   "issn": "2096-6296",
+   "level": "核心库"
+  },
+  {
+   "name": "International Journal of Oral Science",
+   "issn": "1674-2818",
+   "level": "核心库"
+  },
+  {
+   "name": "International Journal of Sediment Research",
+   "issn": "1001-6279",
+   "level": "核心库"
+  },
+  {
+   "name": "International Journal of Smart and Nano Materials",
+   "issn": "1947-5411",
+   "level": "核心库"
+  },
+  {
+   "name": "International Journal of Transportation Science and Technology",
+   "issn": "2046-0430",
+   "level": "核心库"
+  },
+  {
+   "name": "International Soil and Water Conservation Research",
+   "issn": "2095-6339",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Acupuncture and Tuina Science",
+   "issn": "1672-3597",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Advanced Ceramics",
+   "issn": "2226-4108",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Advanced Dielectrics",
+   "issn": "2010-135X",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Analysis and Testing",
+   "issn": "2096-241X",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Animal Science and Biotechnology",
+   "issn": "1674-9782",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Arid Land",
+   "issn": "1674-6767",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Biomedical Research",
+   "issn": "1674-8301",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Bionic Engineering",
+   "issn": "1672-6529",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Bioresources and Bioproducts",
+   "issn": "2097-2415",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Central South University",
+   "issn": "2095-2899",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Chinese Pharmaceutical Sciences",
+   "issn": "1003-1057",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Clinical and Translational Hepatology",
+   "issn": "2225-0719",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Communications and Information Networks",
+   "issn": "2096-1081",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Computational Mathematics",
+   "issn": "0254-9409",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Computer Science and Technology",
+   "issn": "1000-9000",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Cotton Research",
+   "issn": "2096-5044",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Data and Information Science",
+   "issn": "2096-157X",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Earth Science",
+   "issn": "1674-487X",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Energy Chemistry",
+   "issn": "2095-4956",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Environmental Sciences",
+   "issn": "1001-0742",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Forestry Research",
+   "issn": "1007-662X",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Future Foods",
+   "issn": "2772-5669",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Genetics and Genomics",
+   "issn": "1673-8527",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Geodesy and Geoinformation Science",
+   "issn": "2096-5990",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Geographical Sciences",
+   "issn": "1009-637X",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Geriatric Cardiology",
+   "issn": "1671-5411",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Hydrodynamics",
+   "issn": "1001-6058",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Innovative Optical Health Sciences",
+   "issn": "1793-5458",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Integrative Agriculture",
+   "issn": "2095-3119",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Integrative Medicine",
+   "issn": "2095-4964",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Integrative Plant Biology",
+   "issn": "1672-9072",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Intensive Medicine",
+   "issn": "2097-0250",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Iron and Steel Research, International",
+   "issn": "1006-706X",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Magnesium and Alloys",
+   "issn": "2213-9567",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Management Science and Engineering",
+   "issn": "2096-2320",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Marine Science and Application",
+   "issn": "1671-9433",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Materials Science & Technology",
+   "issn": "1005-0302",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Materiomics",
+   "issn": "2352-8478",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Mathematical Research with Applications",
+   "issn": "2095-2651",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Measurement Science and Instrumentation",
+   "issn": "1674-8042",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Meteorological Research",
+   "issn": "2095-6037",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Modern Power Systems and Clean Energy",
+   "issn": "2196-5625",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Molecular Cell Biology",
+   "issn": "1674-2788",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Mountain Science",
+   "issn": "1672-6316",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Neurorestoratology",
+   "issn": "2324-2426",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Ocean Engineering and Science",
+   "issn": "2468-0133",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Ocean University of China",
+   "issn": "1672-5182",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Oceanology and Limnology",
+   "issn": "2096-5508",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Otology",
+   "issn": "1672-2930",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Palaeogeography",
+   "issn": "2095-3836",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Pharmaceutical Analysis",
+   "issn": "2095-1779",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Plant Ecology",
+   "issn": "1752-9921",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Rare Earths",
+   "issn": "1002-0721",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Remote Sensing",
+   "issn": "2097-0064",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Resources and Ecology",
+   "issn": "1674-764X",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Rock Mechanics and Geotechnical Engineering",
+   "issn": "1674-7755",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Safety Science and Resilience",
+   "issn": "2096-7527",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Science in Sport and Exercise",
+   "issn": "2096-6709",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Semiconductors",
+   "issn": "1674-4926",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Sport and Health Science",
+   "issn": "2095-2546",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Systematics and Evolution",
+   "issn": "1674-4918",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Systems Engineering and Electronics",
+   "issn": "1004-4132",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Systems Science and Complexity",
+   "issn": "1009-6124",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Systems Science and Information",
+   "issn": "1478-9906",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Systems Science and Systems Engineering",
+   "issn": "1004-3756",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of the National Cancer Center",
+   "issn": "2096-8663",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of the Operations Research Society of China",
+   "issn": "2194-668X",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Thermal Science",
+   "issn": "1003-2169",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Traditional Chinese Medical Sciences",
+   "issn": "2095-7548",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Traditional Chinese Medicine",
+   "issn": "0255-2922",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Traffic and Transportation Engineering (English Edition)",
+   "issn": "2095-7564",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Tropical Meteorology",
+   "issn": "1006-8775",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Wuhan University of Technology. Materials Science Edition",
+   "issn": "1000-2413",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Zhejiang University. Science A, Applied Physics & Engineering",
+   "issn": "1673-565X",
+   "level": "核心库"
+  },
+  {
+   "name": "Journal of Zhejiang University. Science B, Biomedicine & Biotechnology",
+   "issn": "1673-1581",
+   "level": "核心库"
+  },
+  {
+   "name": "Light: Advanced Manufacturing",
+   "issn": "2689-9620",
+   "level": "核心库"
+  },
+  {
+   "name": "Light:Science & Applications",
+   "issn": "2095-5545",
+   "level": "核心库"
+  },
+  {
+   "name": "Liver Research",
+   "issn": "2096-2878",
+   "level": "核心库"
+  },
+  {
+   "name": "Machine Intelligence Research",
+   "issn": "2731-538X",
+   "level": "核心库"
+  },
+  {
+   "name": "Marine Life Science & Technology",
+   "issn": "2096-6490",
+   "level": "核心库"
+  },
+  {
+   "name": "Materials Futures",
+   "issn": "2752-5724",
+   "level": "核心库"
+  },
+  {
+   "name": "Materials Genome Engineering Advances",
+   "issn": "2940-9489",
+   "level": "核心库"
+  },
+  {
+   "name": "Maternal-Fetal Medicine",
+   "issn": "2096-6954",
+   "level": "核心库"
+  },
+  {
+   "name": "Matter and Radiation at Extremes",
+   "issn": "2468-2047",
+   "level": "核心库"
+  },
+  {
+   "name": "Microsystems & Nanoengineering",
+   "issn": "2096-1030",
+   "level": "核心库"
+  },
+  {
+   "name": "Military Medical Research",
+   "issn": "2095-7467",
+   "level": "核心库"
+  },
+  {
+   "name": "mLife",
+   "issn": "2097-1699",
+   "level": "核心库"
+  },
+  {
+   "name": "Molecular Horticulture",
+   "issn": "2730-9401",
+   "level": "核心库"
+  },
+  {
+   "name": "Molecular Plant",
+   "issn": "1674-2052",
+   "level": "核心库"
+  },
+  {
+   "name": "Mycology",
+   "issn": "2150-1203",
+   "level": "核心库"
+  },
+  {
+   "name": "Nano Materials Science",
+   "issn": "2096-6482",
+   "level": "核心库"
+  },
+  {
+   "name": "Nano Research",
+   "issn": "1998-0124",
+   "level": "核心库"
+  },
+  {
+   "name": "Nano Research Energy",
+   "issn": "2791-0091",
+   "level": "核心库"
+  },
+  {
+   "name": "Nano-Micro Letters",
+   "issn": "2311-6706",
+   "level": "核心库"
+  },
+  {
+   "name": "Nanotechnology and Precision Engineering",
+   "issn": "1672-6030",
+   "level": "核心库"
+  },
+  {
+   "name": "National Science Open",
+   "issn": "2097-1168",
+   "level": "核心库"
+  },
+  {
+   "name": "National Science Review",
+   "issn": "2095-5138",
+   "level": "核心库"
+  },
+  {
+   "name": "Natural Products and Bioprospecting",
+   "issn": "2192-2195",
+   "level": "核心库"
+  },
+  {
+   "name": "Neural Regeneration Research",
+   "issn": "1673-5374",
+   "level": "核心库"
+  },
+  {
+   "name": "Neuroscience Bulletin",
+   "issn": "1673-7067",
+   "level": "核心库"
+  },
+  {
+   "name": "npj Computational Materials",
+   "issn": "2096-5001",
+   "level": "核心库"
+  },
+  {
+   "name": "npj Flexible Electronics",
+   "issn": "2397-4621",
+   "level": "核心库"
+  },
+  {
+   "name": "Nuclear Science and Techniques",
+   "issn": "1001-8042",
+   "level": "核心库"
+  },
+  {
+   "name": "Numerical Mathematics Theory, Methods and Applications",
+   "issn": "1004-8979",
+   "level": "核心库"
+  },
+  {
+   "name": "Oil Crop Science",
+   "issn": "2096-2428",
+   "level": "核心库"
+  },
+  {
+   "name": "Oncology and Translational Medicine",
+   "issn": "2095-9621",
+   "level": "核心库"
+  },
+  {
+   "name": "Opto-Electronic Advances",
+   "issn": "2096-4579",
+   "level": "核心库"
+  },
+  {
+   "name": "Particuology",
+   "issn": "1674-2001",
+   "level": "核心库"
+  },
+  {
+   "name": "Pediatric Investigation",
+   "issn": "2096-3726",
+   "level": "核心库"
+  },
+  {
+   "name": "Pedosphere",
+   "issn": "1002-0160",
+   "level": "核心库"
+  },
+  {
+   "name": "Petroleum",
+   "issn": "2405-6561",
+   "level": "核心库"
+  },
+  {
+   "name": "Petroleum Research",
+   "issn": "2096-2495",
+   "level": "核心库"
+  },
+  {
+   "name": "Petroleum Science",
+   "issn": "1672-5107",
+   "level": "核心库"
+  },
+  {
+   "name": "Phenomics",
+   "issn": "2730-583X",
+   "level": "核心库"
+  },
+  {
+   "name": "Photonic Sensors",
+   "issn": "1674-9251",
+   "level": "核心库"
+  },
+  {
+   "name": "Photonics Research",
+   "issn": "2327-9125",
+   "level": "核心库"
+  },
+  {
+   "name": "PhotoniX",
+   "issn": "2662-1991",
+   "level": "核心库"
+  },
+  {
+   "name": "Phytopathology Research",
+   "issn": "2096-5362",
+   "level": "核心库"
+  },
+  {
+   "name": "Plant Communications",
+   "issn": "2590-3462",
+   "level": "核心库"
+  },
+  {
+   "name": "Plant Diversity",
+   "issn": "2096-2703",
+   "level": "核心库"
+  },
+  {
+   "name": "Plant Phenomics",
+   "issn": "2097-0374",
+   "level": "核心库"
+  },
+  {
+   "name": "Plasma Science & Technology",
+   "issn": "1009-0630",
+   "level": "核心库"
+  },
+  {
+   "name": "Precision Chemistry",
+   "issn": "2771-9316",
+   "level": "核心库"
+  },
+  {
+   "name": "Progress in Natural Science: Materials International",
+   "issn": "1002-0071",
+   "level": "核心库"
+  },
+  {
+   "name": "Propulsion and Power Research",
+   "issn": "2212-540X",
+   "level": "核心库"
+  },
+  {
+   "name": "Protection and Control of Modern Power Systems",
+   "issn": "2367-2617",
+   "level": "核心库"
+  },
+  {
+   "name": "Protein & Cell",
+   "issn": "1674-800X",
+   "level": "核心库"
+  },
+  {
+   "name": "PsyCh Journal",
+   "issn": "2046-0252",
+   "level": "核心库"
+  },
+  {
+   "name": "Quantitative Biology",
+   "issn": "2095-4689",
+   "level": "核心库"
+  },
+  {
+   "name": "Radiation Detection Technology and Methods",
+   "issn": "2509-9930",
+   "level": "核心库"
+  },
+  {
+   "name": "Radiation Medicine and Protection",
+   "issn": "2097-0439",
+   "level": "核心库"
+  },
+  {
+   "name": "Rare Metals",
+   "issn": "1001-0521",
+   "level": "核心库"
+  },
+  {
+   "name": "Regenerative Biomaterials",
+   "issn": "2056-3418",
+   "level": "核心库"
+  },
+  {
+   "name": "Regional Sustainability",
+   "issn": "2097-0129",
+   "level": "核心库"
+  },
+  {
+   "name": "Reproductive and Developmental Medicine",
+   "issn": "2096-2924",
+   "level": "核心库"
+  },
+  {
+   "name": "Research",
+   "issn": "2096-5168",
+   "level": "核心库"
+  },
+  {
+   "name": "Research in Astronomy and Astrophysics",
+   "issn": "1674-4527",
+   "level": "核心库"
+  },
+  {
+   "name": "Research in Cold and Arid Regions",
+   "issn": "2097-1583",
+   "level": "核心库"
+  },
+  {
+   "name": "Rice Science",
+   "issn": "1672-6308",
+   "level": "核心库"
+  },
+  {
+   "name": "River",
+   "issn": "2750-4867",
+   "level": "核心库"
+  },
+  {
+   "name": "Rock Mechanics Bulletin",
+   "issn": "2773-2304",
+   "level": "核心库"
+  },
+  {
+   "name": "Satellite Navigation",
+   "issn": "2662-9291",
+   "level": "核心库"
+  },
+  {
+   "name": "Science Bulletin",
+   "issn": "2095-9273",
+   "level": "核心库"
+  },
+  {
+   "name": "Science China. Chemistry",
+   "issn": "1674-7291",
+   "level": "核心库"
+  },
+  {
+   "name": "Science China. Earth Sciences",
+   "issn": "1674-7313",
+   "level": "核心库"
+  },
+  {
+   "name": "Science China. Information Sciences",
+   "issn": "1674-733X",
+   "level": "核心库"
+  },
+  {
+   "name": "Science China. Life Sciences",
+   "issn": "1674-7305",
+   "level": "核心库"
+  },
+  {
+   "name": "Science China. Materials",
+   "issn": "2095-8226",
+   "level": "核心库"
+  },
+  {
+   "name": "Science China. Mathematics",
+   "issn": "1674-7283",
+   "level": "核心库"
+  },
+  {
+   "name": "Science China. Physics, Mechanics & Astronomy",
+   "issn": "1674-7348",
+   "level": "核心库"
+  },
+  {
+   "name": "Science China. Technological Sciences",
+   "issn": "1674-7321",
+   "level": "核心库"
+  },
+  {
+   "name": "Science of Traditional Chinese Medicine",
+   "issn": "2836-922X",
+   "level": "核心库"
+  },
+  {
+   "name": "Signal Transduction and Targeted Therapy",
+   "issn": "2095-9907",
+   "level": "核心库"
+  },
+  {
+   "name": "Smart Molecules",
+   "issn": "2751-4587",
+   "level": "核心库"
+  },
+  {
+   "name": "SmartMat",
+   "issn": "2766-8525",
+   "level": "核心库"
+  },
+  {
+   "name": "Soil Ecology Letters",
+   "issn": "2662-2289",
+   "level": "核心库"
+  },
+  {
+   "name": "Space: Science & Technology",
+   "issn": "2692-7659",
+   "level": "核心库"
+  },
+  {
+   "name": "Sports Medicine and Health Science",
+   "issn": "2666-3376",
+   "level": "核心库"
+  },
+  {
+   "name": "Stress Biology",
+   "issn": "2097-4418",
+   "level": "核心库"
+  },
+  {
+   "name": "Stroke and Vascular Neurology",
+   "issn": "2059-8688",
+   "level": "核心库"
+  },
+  {
+   "name": "SusMat",
+   "issn": "2766-8479",
+   "level": "核心库"
+  },
+  {
+   "name": "Synthetic and Systems Biotechnology",
+   "issn": "2097-1206",
+   "level": "核心库"
+  },
+  {
+   "name": "Systems Microbiology and Biomanufacturing",
+   "issn": "2662-7655",
+   "level": "核心库"
+  },
+  {
+   "name": "The Crop Journal",
+   "issn": "2095-5421",
+   "level": "核心库"
+  },
+  {
+   "name": "The Journal of China Universities of Posts and Telecommunications",
+   "issn": "1005-8885",
+   "level": "核心库"
+  },
+  {
+   "name": "Theoretical and Applied Mechanics Letters",
+   "issn": "2095-0349",
+   "level": "核心库"
+  },
+  {
+   "name": "Transactions of Nanjing University of Aeronautics & Astronautics",
+   "issn": "1005-1120",
+   "level": "核心库"
+  },
+  {
+   "name": "Transactions of Nonferrous Metals Society of China",
+   "issn": "1003-6326",
+   "level": "核心库"
+  },
+  {
+   "name": "Translational Neurodegeneration",
+   "issn": "2096-6466",
+   "level": "核心库"
+  },
+  {
+   "name": "Transportation Safety and Environment",
+   "issn": "2631-6765",
+   "level": "核心库"
+  },
+  {
+   "name": "Tropical Plants",
+   "issn": "2833-9851",
+   "level": "核心库"
+  },
+  {
+   "name": "Tsinghua Science and Technology",
+   "issn": "1007-0214",
+   "level": "核心库"
+  },
+  {
+   "name": "Tungsten",
+   "issn": "2661-8028",
+   "level": "核心库"
+  },
+  {
+   "name": "Underground Space",
+   "issn": "2096-2754",
+   "level": "核心库"
+  },
+  {
+   "name": "Unmanned Systems",
+   "issn": "2301-3850",
+   "level": "核心库"
+  },
+  {
+   "name": "Virologica Sinica",
+   "issn": "1674-0769",
+   "level": "核心库"
+  },
+  {
+   "name": "Visual Intelligence",
+   "issn": "2731-9008",
+   "level": "核心库"
+  },
+  {
+   "name": "Waste Disposal & Sustainable Energy",
+   "issn": "2524-7980",
+   "level": "核心库"
+  },
+  {
+   "name": "Water Biology and Security",
+   "issn": "2772-7351",
+   "level": "核心库"
+  },
+  {
+   "name": "Water Science and Engineering",
+   "issn": "1674-2370",
+   "level": "核心库"
+  },
+  {
+   "name": "World Journal of Acupuncture-Moxibustion",
+   "issn": "1003-5257",
+   "level": "核心库"
+  },
+  {
+   "name": "World Journal Of Emergency Medicine",
+   "issn": "1920-8642",
+   "level": "核心库"
+  },
+  {
+   "name": "World Journal of Otorhinolaryngology – Head and Neck Surgery",
+   "issn": "2095-8811",
+   "level": "核心库"
+  },
+  {
+   "name": "World Journal of Pediatric Surgery",
+   "issn": "2096-6938",
+   "level": "核心库"
+  },
+  {
+   "name": "World Journal of Pediatrics",
+   "issn": "1708-8569",
+   "level": "核心库"
+  },
+  {
+   "name": "World Journal of Traditional Chinese Medicine",
+   "issn": "2311-8571",
+   "level": "核心库"
+  },
+  {
+   "name": "Wuhan University Journal of Natural Sciences",
+   "issn": "1007-1202",
+   "level": "核心库"
+  },
+  {
+   "name": "Zoological Research",
+   "issn": "2095-8137",
+   "level": "核心库"
+  },
+  {
+   "name": "Zoological Systematics",
+   "issn": "2095-6827",
+   "level": "核心库"
+  },
+  {
+   "name": "安全与环境学报",
+   "issn": "1009-6094",
+   "level": "核心库"
+  },
+  {
+   "name": "爆炸与冲击",
+   "issn": "1001-1455",
+   "level": "核心库"
+  },
+  {
+   "name": "北京大学学报. 医学版",
+   "issn": "1671-167X",
+   "level": "核心库"
+  },
+  {
+   "name": "北京大学学报. 自然科学版",
+   "issn": "0479-8023",
+   "level": "核心库"
+  },
+  {
+   "name": "北京工业大学学报",
+   "issn": "0254-0037",
+   "level": "核心库"
+  },
+  {
+   "name": "北京航空航天大学学报",
+   "issn": "1001-5965",
+   "level": "核心库"
+  },
+  {
+   "name": "北京交通大学学报. 自然科学版",
+   "issn": "1673-0291",
+   "level": "核心库"
+  },
+  {
+   "name": "北京理工大学学报",
+   "issn": "1001-0645",
+   "level": "核心库"
+  },
+  {
+   "name": "北京林业大学学报",
+   "issn": "1000-1522",
+   "level": "核心库"
+  },
+  {
+   "name": "北京师范大学学报. 自然科学版",
+   "issn": "0476-0301",
+   "level": "核心库"
+  },
+  {
+   "name": "北京中医药大学学报",
+   "issn": "1006-2157",
+   "level": "核心库"
+  },
+  {
+   "name": "表面技术",
+   "issn": "1001-3660",
+   "level": "核心库"
+  },
+  {
+   "name": "冰川冻土",
+   "issn": "1000-0240",
+   "level": "核心库"
+  },
+  {
+   "name": "兵工学报",
+   "issn": "1000-1093",
+   "level": "核心库"
+  },
+  {
+   "name": "兵器装备工程学报",
+   "issn": "2096-2304",
+   "level": "核心库"
+  },
+  {
+   "name": "病毒学报",
+   "issn": "1000-8721",
+   "level": "核心库"
+  },
+  {
+   "name": "材料导报",
+   "issn": "1005-023X",
+   "level": "核心库"
+  },
+  {
+   "name": "材料工程",
+   "issn": "1001-4381",
+   "level": "核心库"
+  },
+  {
+   "name": "材料科学与工艺",
+   "issn": "1005-0299",
+   "level": "核心库"
+  },
+  {
+   "name": "材料热处理学报",
+   "issn": "1009-6264",
+   "level": "核心库"
+  },
+  {
+   "name": "材料研究学报",
+   "issn": "1005-3093",
+   "level": "核心库"
+  },
+  {
+   "name": "采矿与安全工程学报",
+   "issn": "1673-3363",
+   "level": "核心库"
+  },
+  {
+   "name": "草地学报",
+   "issn": "1007-0435",
+   "level": "核心库"
+  },
+  {
+   "name": "草业科学",
+   "issn": "1001-0629",
+   "level": "核心库"
+  },
+  {
+   "name": "草业学报",
+   "issn": "1004-5759",
+   "level": "核心库"
+  },
+  {
+   "name": "测绘科学",
+   "issn": "1009-2307",
+   "level": "核心库"
+  },
+  {
+   "name": "测绘通报",
+   "issn": "0494-0911",
+   "level": "核心库"
+  },
+  {
+   "name": "测绘学报",
+   "issn": "1001-1595",
+   "level": "核心库"
+  },
+  {
+   "name": "茶叶科学",
+   "issn": "1000-369X",
+   "level": "核心库"
+  },
+  {
+   "name": "沉积学报",
+   "issn": "1000-0550",
+   "level": "核心库"
+  },
+  {
+   "name": "成都理工大学学报. 自然科学版",
+   "issn": "1671-9727",
+   "level": "核心库"
+  },
+  {
+   "name": "城市发展研究",
+   "issn": "1006-3862",
+   "level": "核心库"
+  },
+  {
+   "name": "城市规划",
+   "issn": "1002-1329",
+   "level": "核心库"
+  },
+  {
+   "name": "城市规划学刊",
+   "issn": "1000-3363",
+   "level": "核心库"
+  },
+  {
+   "name": "重庆大学学报",
+   "issn": "1000-582X",
+   "level": "核心库"
+  },
+  {
+   "name": "储能科学与技术",
+   "issn": "2095-4239",
+   "level": "核心库"
+  },
+  {
+   "name": "磁共振成像",
+   "issn": "1674-8034",
+   "level": "核心库"
+  },
+  {
+   "name": "大地测量与地球动力学",
+   "issn": "1671-5942",
+   "level": "核心库"
+  },
+  {
+   "name": "大地构造与成矿学",
+   "issn": "1001-1552",
+   "level": "核心库"
+  },
+  {
+   "name": "大连海洋大学学报",
+   "issn": "2095-1388",
+   "level": "核心库"
+  },
+  {
+   "name": "大连理工大学学报",
+   "issn": "1000-8608",
+   "level": "核心库"
+  },
+  {
+   "name": "大气科学",
+   "issn": "1006-9895",
+   "level": "核心库"
+  },
+  {
+   "name": "大气科学学报",
+   "issn": "1674-7097",
+   "level": "核心库"
+  },
+  {
+   "name": "大气与环境光学学报",
+   "issn": "1673-6141",
+   "level": "核心库"
+  },
+  {
+   "name": "弹道学报",
+   "issn": "1004-499X",
+   "level": "核心库"
+  },
+  {
+   "name": "地理科学",
+   "issn": "1000-0690",
+   "level": "核心库"
+  },
+  {
+   "name": "地理科学进展",
+   "issn": "1007-6301",
+   "level": "核心库"
+  },
+  {
+   "name": "地理学报",
+   "issn": "0375-5444",
+   "level": "核心库"
+  },
+  {
+   "name": "地理研究",
+   "issn": "1000-0585",
+   "level": "核心库"
+  },
+  {
+   "name": "地理与地理信息科学",
+   "issn": "1672-0504",
+   "level": "核心库"
+  },
+  {
+   "name": "地球化学",
+   "issn": "0379-1726",
+   "level": "核心库"
+  },
+  {
+   "name": "地球科学",
+   "issn": "1000-2383",
+   "level": "核心库"
+  },
+  {
+   "name": "地球科学进展",
+   "issn": "1001-8166",
+   "level": "核心库"
+  },
+  {
+   "name": "地球物理学报",
+   "issn": "0001-5733",
+   "level": "核心库"
+  },
+  {
+   "name": "地球物理学进展",
+   "issn": "1004-2903",
+   "level": "核心库"
+  },
+  {
+   "name": "地球信息科学学报",
+   "issn": "1560-8999",
+   "level": "核心库"
+  },
+  {
+   "name": "地球学报",
+   "issn": "1006-3021",
+   "level": "核心库"
+  },
+  {
+   "name": "地球与行星物理论评（中英文）",
+   "issn": "2097-1893",
+   "level": "核心库"
+  },
+  {
+   "name": "地球与环境",
+   "issn": "1672-9250",
+   "level": "核心库"
+  },
+  {
+   "name": "地下空间与工程学报",
+   "issn": "1673-0836",
+   "level": "核心库"
+  },
+  {
+   "name": "地学前缘",
+   "issn": "1005-2321",
+   "level": "核心库"
+  },
+  {
+   "name": "地震地质",
+   "issn": "0253-4967",
+   "level": "核心库"
+  },
+  {
+   "name": "地震工程学报",
+   "issn": "1000-0844",
+   "level": "核心库"
+  },
+  {
+   "name": "地震工程与工程振动",
+   "issn": "1000-1301",
+   "level": "核心库"
+  },
+  {
+   "name": "地震学报",
+   "issn": "0253-3782",
+   "level": "核心库"
+  },
+  {
+   "name": "地质科学",
+   "issn": "0563-5020",
+   "level": "核心库"
+  },
+  {
+   "name": "地质力学学报",
+   "issn": "1006-6616",
+   "level": "核心库"
+  },
+  {
+   "name": "地质论评",
+   "issn": "0371-5736",
+   "level": "核心库"
+  },
+  {
+   "name": "地质通报",
+   "issn": "1671-2552",
+   "level": "核心库"
+  },
+  {
+   "name": "地质学报",
+   "issn": "0001-5717",
+   "level": "核心库"
+  },
+  {
+   "name": "第四纪研究",
+   "issn": "1001-7410",
+   "level": "核心库"
+  },
+  {
+   "name": "电工技术学报",
+   "issn": "1000-6753",
+   "level": "核心库"
+  },
+  {
+   "name": "电机与控制学报",
+   "issn": "1007-449X",
+   "level": "核心库"
+  },
+  {
+   "name": "电力建设",
+   "issn": "1000-7229",
+   "level": "核心库"
+  },
+  {
+   "name": "电力系统保护与控制",
+   "issn": "1674-3415",
+   "level": "核心库"
+  },
+  {
+   "name": "电力系统及其自动化学报",
+   "issn": "1003-8930",
+   "level": "核心库"
+  },
+  {
+   "name": "电力系统自动化",
+   "issn": "1000-1026",
+   "level": "核心库"
+  },
+  {
+   "name": "电力自动化设备",
+   "issn": "1006-6047",
+   "level": "核心库"
+  },
+  {
+   "name": "电网技术",
+   "issn": "1000-3673",
+   "level": "核心库"
+  },
+  {
+   "name": "电网与清洁能源",
+   "issn": "1674-3814",
+   "level": "核心库"
+  },
+  {
+   "name": "电子测量与仪器学报",
+   "issn": "1000-7105",
+   "level": "核心库"
+  },
+  {
+   "name": "电子科技大学学报",
+   "issn": "1001-0548",
+   "level": "核心库"
+  },
+  {
+   "name": "电子学报",
+   "issn": "0372-2112",
+   "level": "核心库"
+  },
+  {
+   "name": "电子与信息学报",
+   "issn": "1009-5896",
+   "level": "核心库"
+  },
+  {
+   "name": "东北大学学报. 自然科学版",
+   "issn": "1005-3026",
+   "level": "核心库"
+  },
+  {
+   "name": "东北农业大学学报",
+   "issn": "1005-9369",
+   "level": "核心库"
+  },
+  {
+   "name": "东南大学学报. 自然科学版",
+   "issn": "1001-0505",
+   "level": "核心库"
+  },
+  {
+   "name": "动力工程学报",
+   "issn": "1674-7607",
+   "level": "核心库"
+  },
+  {
+   "name": "动物营养学报",
+   "issn": "1006-267X",
+   "level": "核心库"
+  },
+  {
+   "name": "断块油气田",
+   "issn": "1005-8907",
+   "level": "核心库"
+  },
+  {
+   "name": "发电技术",
+   "issn": "2096-4528",
+   "level": "核心库"
+  },
+  {
+   "name": "发光学报",
+   "issn": "1000-7032",
+   "level": "核心库"
+  },
+  {
+   "name": "防灾减灾工程学报",
+   "issn": "1672-2132",
+   "level": "核心库"
+  },
+  {
+   "name": "纺织学报",
+   "issn": "0253-9721",
+   "level": "核心库"
+  },
+  {
+   "name": "放射学实践",
+   "issn": "1000-0313",
+   "level": "核心库"
+  },
+  {
+   "name": "分析测试学报",
+   "issn": "1004-4957",
+   "level": "核心库"
+  },
+  {
+   "name": "分析化学",
+   "issn": "0253-3820",
+   "level": "核心库"
+  },
+  {
+   "name": "辐射防护",
+   "issn": "1000-8187",
+   "level": "核心库"
+  },
+  {
+   "name": "辐射研究与辐射工艺学报",
+   "issn": "1000-3436",
+   "level": "核心库"
+  },
+  {
+   "name": "复旦学报. 医学版",
+   "issn": "1672-8467",
+   "level": "核心库"
+  },
+  {
+   "name": "复合材料学报",
+   "issn": "1000-3851",
+   "level": "核心库"
+  },
+  {
+   "name": "复杂系统与复杂性科学",
+   "issn": "1672-3813",
+   "level": "核心库"
+  },
+  {
+   "name": "干旱地区农业研究",
+   "issn": "1000-7601",
+   "level": "核心库"
+  },
+  {
+   "name": "干旱区地理",
+   "issn": "1000-6060",
+   "level": "核心库"
+  },
+  {
+   "name": "干旱区研究",
+   "issn": "1001-4675",
+   "level": "核心库"
+  },
+  {
+   "name": "干旱区资源与环境",
+   "issn": "1003-7578",
+   "level": "核心库"
+  },
+  {
+   "name": "钢铁",
+   "issn": "0449-749X",
+   "level": "核心库"
+  },
+  {
+   "name": "钢铁研究学报",
+   "issn": "1001-0963",
+   "level": "核心库"
+  },
+  {
+   "name": "高等学校化学学报",
+   "issn": "0251-0790",
+   "level": "核心库"
+  },
+  {
+   "name": "高电压技术",
+   "issn": "1003-6520",
+   "level": "核心库"
+  },
+  {
+   "name": "高分子材料科学与工程",
+   "issn": "1000-7555",
+   "level": "核心库"
+  },
+  {
+   "name": "高分子通报",
+   "issn": "1003-3726",
+   "level": "核心库"
+  },
+  {
+   "name": "高分子学报",
+   "issn": "1000-3304",
+   "level": "核心库"
+  },
+  {
+   "name": "高校化学工程学报",
+   "issn": "1003-9015",
+   "level": "核心库"
+  },
+  {
+   "name": "高压电器",
+   "issn": "1001-1609",
+   "level": "核心库"
+  },
+  {
+   "name": "高压物理学报",
+   "issn": "1000-5773",
+   "level": "核心库"
+  },
+  {
+   "name": "高原气象",
+   "issn": "1000-0534",
+   "level": "核心库"
+  },
+  {
+   "name": "给水排水",
+   "issn": "1002-8471",
+   "level": "核心库"
+  },
+  {
+   "name": "工程地质学报",
+   "issn": "1004-9665",
+   "level": "核心库"
+  },
+  {
+   "name": "工程科学学报",
+   "issn": "2095-9389",
+   "level": "核心库"
+  },
+  {
+   "name": "工程科学与技术",
+   "issn": "2096-3246",
+   "level": "核心库"
+  },
+  {
+   "name": "工程力学",
+   "issn": "1000-4750",
+   "level": "核心库"
+  },
+  {
+   "name": "工程热物理学报",
+   "issn": "0253-231X",
+   "level": "核心库"
+  },
+  {
+   "name": "工业水处理",
+   "issn": "1005-829X",
+   "level": "核心库"
+  },
+  {
+   "name": "公路交通科技",
+   "issn": "1002-0268",
+   "level": "核心库"
+  },
+  {
+   "name": "功能材料",
+   "issn": "1001-9731",
+   "level": "核心库"
+  },
+  {
+   "name": "功能高分子学报",
+   "issn": "1008-9357",
+   "level": "核心库"
+  },
+  {
+   "name": "古地理学报",
+   "issn": "1671-1505",
+   "level": "核心库"
+  },
+  {
+   "name": "古脊椎动物学报（中英文）",
+   "issn": "2096-9899",
+   "level": "核心库"
+  },
+  {
+   "name": "古生物学报",
+   "issn": "0001-6616",
+   "level": "核心库"
+  },
+  {
+   "name": "固体火箭技术",
+   "issn": "1006-2793",
+   "level": "核心库"
+  },
+  {
+   "name": "固体力学学报",
+   "issn": "0254-7805",
+   "level": "核心库"
+  },
+  {
+   "name": "管理工程学报",
+   "issn": "1004-6062",
+   "level": "核心库"
+  },
+  {
+   "name": "管理科学学报",
+   "issn": "1007-9807",
+   "level": "核心库"
+  },
+  {
+   "name": "光电工程",
+   "issn": "1003-501X",
+   "level": "核心库"
+  },
+  {
+   "name": "光谱学与光谱分析",
+   "issn": "1000-0593",
+   "level": "核心库"
+  },
+  {
+   "name": "光学精密工程",
+   "issn": "1004-924X",
+   "level": "核心库"
+  },
+  {
+   "name": "光学学报",
+   "issn": "0253-2239",
+   "level": "核心库"
+  },
+  {
+   "name": "光子学报",
+   "issn": "1004-4213",
+   "level": "核心库"
+  },
+  {
+   "name": "硅酸盐学报",
+   "issn": "0454-5648",
+   "level": "核心库"
+  },
+  {
+   "name": "国防科技大学学报",
+   "issn": "1001-2486",
+   "level": "核心库"
+  },
+  {
+   "name": "国际城市规划",
+   "issn": "1673-9493",
+   "level": "核心库"
+  },
+  {
+   "name": "国际口腔医学杂志",
+   "issn": "1673-5749",
+   "level": "核心库"
+  },
+  {
+   "name": "果树学报",
+   "issn": "1009-9980",
+   "level": "核心库"
+  },
+  {
+   "name": "过程工程学报",
+   "issn": "1009-606X",
+   "level": "核心库"
+  },
+  {
+   "name": "哈尔滨工程大学学报",
+   "issn": "1006-7043",
+   "level": "核心库"
+  },
+  {
+   "name": "哈尔滨工业大学学报",
+   "issn": "0367-6234",
+   "level": "核心库"
+  },
+  {
+   "name": "海军军医大学学报",
+   "issn": "2097-1338",
+   "level": "核心库"
+  },
+  {
+   "name": "海相油气地质",
+   "issn": "1672-9854",
+   "level": "核心库"
+  },
+  {
+   "name": "海洋地质前沿",
+   "issn": "1009-2722",
+   "level": "核心库"
+  },
+  {
+   "name": "海洋地质与第四纪地质",
+   "issn": "0256-1492",
+   "level": "核心库"
+  },
+  {
+   "name": "海洋工程",
+   "issn": "1005-9865",
+   "level": "核心库"
+  },
+  {
+   "name": "海洋湖沼通报（中英文）",
+   "issn": "1003-6482",
+   "level": "核心库"
+  },
+  {
+   "name": "海洋环境科学",
+   "issn": "1007-6336",
+   "level": "核心库"
+  },
+  {
+   "name": "海洋科学",
+   "issn": "1000-3096",
+   "level": "核心库"
+  },
+  {
+   "name": "海洋科学进展",
+   "issn": "1671-6647",
+   "level": "核心库"
+  },
+  {
+   "name": "海洋通报",
+   "issn": "1001-6392",
+   "level": "核心库"
+  },
+  {
+   "name": "海洋学报",
+   "issn": "0253-4193",
+   "level": "核心库"
+  },
+  {
+   "name": "海洋渔业",
+   "issn": "1004-2490",
+   "level": "核心库"
+  },
+  {
+   "name": "海洋与湖沼",
+   "issn": "0029-814X",
+   "level": "核心库"
+  },
+  {
+   "name": "含能材料",
+   "issn": "1006-9941",
+   "level": "核心库"
+  },
+  {
+   "name": "焊接学报",
+   "issn": "0253-360X",
+   "level": "核心库"
+  },
+  {
+   "name": "航空兵器",
+   "issn": "1673-5048",
+   "level": "核心库"
+  },
+  {
+   "name": "航空材料学报",
+   "issn": "1005-5053",
+   "level": "核心库"
+  },
+  {
+   "name": "航空动力学报",
+   "issn": "1000-8055",
+   "level": "核心库"
+  },
+  {
+   "name": "航空学报",
+   "issn": "1000-6893",
+   "level": "核心库"
+  },
+  {
+   "name": "航空制造技术",
+   "issn": "1671-833X",
+   "level": "核心库"
+  },
+  {
+   "name": "航天返回与遥感",
+   "issn": "1009-8518",
+   "level": "核心库"
+  },
+  {
+   "name": "航天器工程",
+   "issn": "1673-8748",
+   "level": "核心库"
+  },
+  {
+   "name": "航天器环境工程",
+   "issn": "1673-1379",
+   "level": "核心库"
+  },
+  {
+   "name": "合成生物学",
+   "issn": "2096-8280",
+   "level": "核心库"
+  },
+  {
+   "name": "河海大学学报. 自然科学版",
+   "issn": "1000-1980",
+   "level": "核心库"
+  },
+  {
+   "name": "河南农业大学学报",
+   "issn": "1000-2340",
+   "level": "核心库"
+  },
+  {
+   "name": "核动力工程",
+   "issn": "0258-0926",
+   "level": "核心库"
+  },
+  {
+   "name": "核化学与放射化学",
+   "issn": "0253-9950",
+   "level": "核心库"
+  },
+  {
+   "name": "核技术",
+   "issn": "0253-3219",
+   "level": "核心库"
+  },
+  {
+   "name": "红外技术",
+   "issn": "1001-8891",
+   "level": "核心库"
+  },
+  {
+   "name": "红外与毫米波学报",
+   "issn": "1001-9014",
+   "level": "核心库"
+  },
+  {
+   "name": "红外与激光工程",
+   "issn": "1007-2276",
+   "level": "核心库"
+  },
+  {
+   "name": "湖泊科学",
+   "issn": "1003-5427",
+   "level": "核心库"
+  },
+  {
+   "name": "湖南大学学报. 自然科学版",
+   "issn": "1674-2974",
+   "level": "核心库"
+  },
+  {
+   "name": "华北农学报",
+   "issn": "1000-7091",
+   "level": "核心库"
+  },
+  {
+   "name": "华南理工大学学报. 自然科学版",
+   "issn": "1000-565X",
+   "level": "核心库"
+  },
+  {
+   "name": "华南农业大学学报",
+   "issn": "1001-411X",
+   "level": "核心库"
+  },
+  {
+   "name": "华西口腔医学杂志",
+   "issn": "1000-1182",
+   "level": "核心库"
+  },
+  {
+   "name": "华中科技大学学报. 自然科学版",
+   "issn": "1671-4512",
+   "level": "核心库"
+  },
+  {
+   "name": "华中农业大学学报",
+   "issn": "1000-2421",
+   "level": "核心库"
+  },
+  {
+   "name": "化工进展",
+   "issn": "1000-6613",
+   "level": "核心库"
+  },
+  {
+   "name": "化工学报",
+   "issn": "0438-1157",
+   "level": "核心库"
+  },
+  {
+   "name": "化学进展",
+   "issn": "1005-281X",
+   "level": "核心库"
+  },
+  {
+   "name": "化学学报",
+   "issn": "0567-7351",
+   "level": "核心库"
+  },
+  {
+   "name": "环境工程技术学报",
+   "issn": "1674-991X",
+   "level": "核心库"
+  },
+  {
+   "name": "环境化学",
+   "issn": "0254-6108",
+   "level": "核心库"
+  },
+  {
+   "name": "环境科学",
+   "issn": "0250-3301",
+   "level": "核心库"
+  },
+  {
+   "name": "环境科学学报",
+   "issn": "0253-2468",
+   "level": "核心库"
+  },
+  {
+   "name": "环境科学研究",
+   "issn": "1001-6929",
+   "level": "核心库"
+  },
+  {
+   "name": "环境科学与技术",
+   "issn": "1003-6504",
+   "level": "核心库"
+  },
+  {
+   "name": "环境与职业医学",
+   "issn": "2095-9982",
+   "level": "核心库"
+  },
+  {
+   "name": "火炸药学报",
+   "issn": "1007-7812",
+   "level": "核心库"
+  },
+  {
+   "name": "机器人",
+   "issn": "1002-0446",
+   "level": "核心库"
+  },
+  {
+   "name": "机械工程材料",
+   "issn": "1000-3738",
+   "level": "核心库"
+  },
+  {
+   "name": "机械工程学报",
+   "issn": "0577-6686",
+   "level": "核心库"
+  },
+  {
+   "name": "机械科学与技术",
+   "issn": "1003-8728",
+   "level": "核心库"
+  },
+  {
+   "name": "激光与光电子学进展",
+   "issn": "1006-4125",
+   "level": "核心库"
+  },
+  {
+   "name": "吉林大学学报. 地球科学版",
+   "issn": "1671-5888",
+   "level": "核心库"
+  },
+  {
+   "name": "吉林大学学报. 工学版",
+   "issn": "1671-5497",
+   "level": "核心库"
+  },
+  {
+   "name": "极地研究",
+   "issn": "1007-7073",
+   "level": "核心库"
+  },
+  {
+   "name": "疾病监测",
+   "issn": "1003-9961",
+   "level": "核心库"
+  },
+  {
+   "name": "计量经济学报",
+   "issn": "2096-9732",
+   "level": "核心库"
+  },
+  {
+   "name": "计算机辅助设计与图形学学报",
+   "issn": "1003-9775",
+   "level": "核心库"
+  },
+  {
+   "name": "计算机工程",
+   "issn": "1000-3428",
+   "level": "核心库"
+  },
+  {
+   "name": "计算机集成制造系统",
+   "issn": "1006-5911",
+   "level": "核心库"
+  },
+  {
+   "name": "计算机科学",
+   "issn": "1002-137X",
+   "level": "核心库"
+  },
+  {
+   "name": "计算机学报",
+   "issn": "0254-4164",
+   "level": "核心库"
+  },
+  {
+   "name": "计算机研究与发展",
+   "issn": "1000-1239",
+   "level": "核心库"
+  },
+  {
+   "name": "计算力学学报",
+   "issn": "1007-4708",
+   "level": "核心库"
+  },
+  {
+   "name": "计算数学",
+   "issn": "0254-7791",
+   "level": "核心库"
+  },
+  {
+   "name": "建筑材料学报",
+   "issn": "1007-9629",
+   "level": "核心库"
+  },
+  {
+   "name": "建筑结构学报",
+   "issn": "1000-6869",
+   "level": "核心库"
+  },
+  {
+   "name": "江苏农业学报",
+   "issn": "1000-4440",
+   "level": "核心库"
+  },
+  {
+   "name": "江西农业大学学报",
+   "issn": "1000-2286",
+   "level": "核心库"
+  },
+  {
+   "name": "交通运输工程学报",
+   "issn": "1671-1637",
+   "level": "核心库"
+  },
+  {
+   "name": "交通运输系统工程与信息",
+   "issn": "1009-6744",
+   "level": "核心库"
+  },
+  {
+   "name": "洁净煤技术",
+   "issn": "1006-6772",
+   "level": "核心库"
+  },
+  {
+   "name": "解放军医学杂志",
+   "issn": "0577-7402",
+   "level": "核心库"
+  },
+  {
+   "name": "解剖学报",
+   "issn": "0529-1356",
+   "level": "核心库"
+  },
+  {
+   "name": "金属学报",
+   "issn": "0412-1961",
+   "level": "核心库"
+  },
+  {
+   "name": "经济地理",
+   "issn": "1000-8462",
+   "level": "核心库"
+  },
+  {
+   "name": "精细化工",
+   "issn": "1003-5214",
+   "level": "核心库"
+  },
+  {
+   "name": "军事护理",
+   "issn": "2097-1826",
+   "level": "核心库"
+  },
+  {
+   "name": "军事医学",
+   "issn": "1674-9960",
+   "level": "核心库"
+  },
+  {
+   "name": "菌物学报",
+   "issn": "1672-6472",
+   "level": "核心库"
+  },
+  {
+   "name": "菌物研究",
+   "issn": "1672-3538",
+   "level": "核心库"
+  },
+  {
+   "name": "康复学报",
+   "issn": "2096-0328",
+   "level": "核心库"
+  },
+  {
+   "name": "科技导报",
+   "issn": "1000-7857",
+   "level": "核心库"
+  },
+  {
+   "name": "科学通报",
+   "issn": "0023-074X",
+   "level": "核心库"
+  },
+  {
+   "name": "科学学研究",
+   "issn": "1003-2053",
+   "level": "核心库"
+  },
+  {
+   "name": "科学学与科学技术管理",
+   "issn": "1002-0241",
+   "level": "核心库"
+  },
+  {
+   "name": "科研管理",
+   "issn": "1000-2995",
+   "level": "核心库"
+  },
+  {
+   "name": "可再生能源",
+   "issn": "1671-5292",
+   "level": "核心库"
+  },
+  {
+   "name": "空间科学学报",
+   "issn": "0254-6124",
+   "level": "核心库"
+  },
+  {
+   "name": "空间控制技术与应用",
+   "issn": "1674-1579",
+   "level": "核心库"
+  },
+  {
+   "name": "空气动力学学报",
+   "issn": "0258-1825",
+   "level": "核心库"
+  },
+  {
+   "name": "空天防御",
+   "issn": "2096-4641",
+   "level": "核心库"
+  },
+  {
+   "name": "空天技术",
+   "issn": "2097-0714",
+   "level": "核心库"
+  },
+  {
+   "name": "控制理论与应用",
+   "issn": "1000-8152",
+   "level": "核心库"
+  },
+  {
+   "name": "控制与决策",
+   "issn": "1001-0920",
+   "level": "核心库"
+  },
+  {
+   "name": "矿床地质",
+   "issn": "0258-7106",
+   "level": "核心库"
+  },
+  {
+   "name": "矿物学报",
+   "issn": "1000-4734",
+   "level": "核心库"
+  },
+  {
+   "name": "矿物岩石地球化学通报",
+   "issn": "1007-2802",
+   "level": "核心库"
+  },
+  {
+   "name": "矿业科学学报",
+   "issn": "2096-2193",
+   "level": "核心库"
+  },
+  {
+   "name": "昆虫学报",
+   "issn": "0454-6296",
+   "level": "核心库"
+  },
+  {
+   "name": "兰州大学学报. 自然科学版",
+   "issn": "0455-2059",
+   "level": "核心库"
+  },
+  {
+   "name": "雷达学报（中英文）",
+   "issn": "2095-283X",
+   "level": "核心库"
+  },
+  {
+   "name": "力学进展",
+   "issn": "1000-0992",
+   "level": "核心库"
+  },
+  {
+   "name": "力学学报",
+   "issn": "0459-1879",
+   "level": "核心库"
+  },
+  {
+   "name": "林产化学与工业",
+   "issn": "0253-2417",
+   "level": "核心库"
+  },
+  {
+   "name": "林业工程学报",
+   "issn": "2096-1359",
+   "level": "核心库"
+  },
+  {
+   "name": "林业科学",
+   "issn": "1001-7488",
+   "level": "核心库"
+  },
+  {
+   "name": "林业科学研究",
+   "issn": "1001-1498",
+   "level": "核心库"
+  },
+  {
+   "name": "临床儿科杂志",
+   "issn": "1000-3606",
+   "level": "核心库"
+  },
+  {
+   "name": "临床耳鼻咽喉头颈外科杂志",
+   "issn": "2096-7993",
+   "level": "核心库"
+  },
+  {
+   "name": "陆军军医大学学报",
+   "issn": "2097-0927",
+   "level": "核心库"
+  },
+  {
+   "name": "麦类作物学报",
+   "issn": "1009-1041",
+   "level": "核心库"
+  },
+  {
+   "name": "煤炭科学技术",
+   "issn": "0253-2336",
+   "level": "核心库"
+  },
+  {
+   "name": "煤炭学报",
+   "issn": "0253-9993",
+   "level": "核心库"
+  },
+  {
+   "name": "煤炭转化",
+   "issn": "1004-4248",
+   "level": "核心库"
+  },
+  {
+   "name": "煤田地质与勘探",
+   "issn": "1001-1986",
+   "level": "核心库"
+  },
+  {
+   "name": "密码学报（中英文）",
+   "issn": "2097-4116",
+   "level": "核心库"
+  },
+  {
+   "name": "棉花学报",
+   "issn": "1002-7807",
+   "level": "核心库"
+  },
+  {
+   "name": "免疫学杂志",
+   "issn": "1000-8861",
+   "level": "核心库"
+  },
+  {
+   "name": "模式识别与人工智能",
+   "issn": "1003-6059",
+   "level": "核心库"
+  },
+  {
+   "name": "膜科学与技术",
+   "issn": "1007-8924",
+   "level": "核心库"
+  },
+  {
+   "name": "摩擦学学报（中英文）",
+   "issn": "1004-0595",
+   "level": "核心库"
+  },
+  {
+   "name": "南方电网技术",
+   "issn": "1674-0629",
+   "level": "核心库"
+  },
+  {
+   "name": "南方水产科学",
+   "issn": "2095-0780",
+   "level": "核心库"
+  },
+  {
+   "name": "南方医科大学学报",
+   "issn": "1673-4254",
+   "level": "核心库"
+  },
+  {
+   "name": "南京大学学报. 自然科学版",
+   "issn": "0469-5097",
+   "level": "核心库"
+  },
+  {
+   "name": "南京航空航天大学学报. 自然科学版",
+   "issn": "1005-2615",
+   "level": "核心库"
+  },
+  {
+   "name": "南京林业大学学报. 自然科学版",
+   "issn": "1000-2006",
+   "level": "核心库"
+  },
+  {
+   "name": "南京农业大学学报",
+   "issn": "1000-2030",
+   "level": "核心库"
+  },
+  {
+   "name": "南京中医药大学学报",
+   "issn": "1672-0482",
+   "level": "核心库"
+  },
+  {
+   "name": "南水北调与水利科技（中英文）",
+   "issn": "2096-8086",
+   "level": "核心库"
+  },
+  {
+   "name": "内燃机学报",
+   "issn": "1000-0909",
+   "level": "核心库"
+  },
+  {
+   "name": "泥沙研究",
+   "issn": "0468-155X",
+   "level": "核心库"
+  },
+  {
+   "name": "农药学学报",
+   "issn": "1008-7303",
+   "level": "核心库"
+  },
+  {
+   "name": "农业工程学报",
+   "issn": "1002-6819",
+   "level": "核心库"
+  },
+  {
+   "name": "农业环境科学学报",
+   "issn": "1672-2043",
+   "level": "核心库"
+  },
+  {
+   "name": "农业机械学报",
+   "issn": "1000-1298",
+   "level": "核心库"
+  },
+  {
+   "name": "农业生物技术学报",
+   "issn": "1674-7968",
+   "level": "核心库"
+  },
+  {
+   "name": "农业现代化研究",
+   "issn": "1000-0275",
+   "level": "核心库"
+  },
+  {
+   "name": "农业资源与环境学报",
+   "issn": "2095-6819",
+   "level": "核心库"
+  },
+  {
+   "name": "排灌机械工程学报",
+   "issn": "1674-8530",
+   "level": "核心库"
+  },
+  {
+   "name": "气候变化研究进展",
+   "issn": "1673-1719",
+   "level": "核心库"
+  },
+  {
+   "name": "气候与环境研究",
+   "issn": "1006-9585",
+   "level": "核心库"
+  },
+  {
+   "name": "气象",
+   "issn": "1000-0526",
+   "level": "核心库"
+  },
+  {
+   "name": "气象学报",
+   "issn": "0577-6619",
+   "level": "核心库"
+  },
+  {
+   "name": "汽车安全与节能学报",
+   "issn": "1674-8484",
+   "level": "核心库"
+  },
+  {
+   "name": "汽车工程",
+   "issn": "1000-680X",
+   "level": "核心库"
+  },
+  {
+   "name": "器官移植",
+   "issn": "1674-7445",
+   "level": "核心库"
+  },
+  {
+   "name": "强激光与粒子束",
+   "issn": "1001-4322",
+   "level": "核心库"
+  },
+  {
+   "name": "桥梁建设",
+   "issn": "1003-4722",
+   "level": "核心库"
+  },
+  {
+   "name": "清华大学学报. 自然科学版",
+   "issn": "1000-0054",
+   "level": "核心库"
+  },
+  {
+   "name": "全球能源互联网",
+   "issn": "2096-5125",
+   "level": "核心库"
+  },
+  {
+   "name": "燃料化学学报（中英文）",
+   "issn": "2097-213X",
+   "level": "核心库"
+  },
+  {
+   "name": "燃烧科学与技术",
+   "issn": "1006-8740",
+   "level": "核心库"
+  },
+  {
+   "name": "热带地理",
+   "issn": "1001-5221",
+   "level": "核心库"
+  },
+  {
+   "name": "热带海洋学报",
+   "issn": "1009-5470",
+   "level": "核心库"
+  },
+  {
+   "name": "热力发电",
+   "issn": "1002-3364",
+   "level": "核心库"
+  },
+  {
+   "name": "人类学学报",
+   "issn": "1000-3193",
+   "level": "核心库"
+  },
+  {
+   "name": "软件学报",
+   "issn": "1000-9825",
+   "level": "核心库"
+  },
+  {
+   "name": "色谱",
+   "issn": "1000-8713",
+   "level": "核心库"
+  },
+  {
+   "name": "森林与环境学报",
+   "issn": "2096-0018",
+   "level": "核心库"
+  },
+  {
+   "name": "山地学报",
+   "issn": "1008-2786",
+   "level": "核心库"
+  },
+  {
+   "name": "山东大学学报. 工学版",
+   "issn": "1672-3961",
+   "level": "核心库"
+  },
+  {
+   "name": "上海海洋大学学报",
+   "issn": "1674-5566",
+   "level": "核心库"
+  },
+  {
+   "name": "上海航天（中英文）",
+   "issn": "2096-8655",
+   "level": "核心库"
+  },
+  {
+   "name": "上海交通大学学报",
+   "issn": "1006-2467",
+   "level": "核心库"
+  },
+  {
+   "name": "上海交通大学学报. 医学版",
+   "issn": "1674-8115",
+   "level": "核心库"
+  },
+  {
+   "name": "深空探测学报（中英文）",
+   "issn": "2096-9287",
+   "level": "核心库"
+  },
+  {
+   "name": "生理学报",
+   "issn": "0371-0874",
+   "level": "核心库"
+  },
+  {
+   "name": "生命科学",
+   "issn": "1004-0374",
+   "level": "核心库"
+  },
+  {
+   "name": "生态环境学报",
+   "issn": "1674-5906",
+   "level": "核心库"
+  },
+  {
+   "name": "生态科学",
+   "issn": "1008-8873",
+   "level": "核心库"
+  },
+  {
+   "name": "生态学报",
+   "issn": "1000-0933",
+   "level": "核心库"
+  },
+  {
+   "name": "生态学杂志",
+   "issn": "1000-4890",
+   "level": "核心库"
+  },
+  {
+   "name": "生态与农村环境学报",
+   "issn": "1673-4831",
+   "level": "核心库"
+  },
+  {
+   "name": "生物多样性",
+   "issn": "1005-0094",
+   "level": "核心库"
+  },
+  {
+   "name": "生物工程学报",
+   "issn": "1000-3061",
+   "level": "核心库"
+  },
+  {
+   "name": "生物技术通报",
+   "issn": "1002-5464",
+   "level": "核心库"
+  },
+  {
+   "name": "声学学报",
+   "issn": "0371-0025",
+   "level": "核心库"
+  },
+  {
+   "name": "湿地科学",
+   "issn": "1672-5948",
+   "level": "核心库"
+  },
+  {
+   "name": "石油地球物理勘探",
+   "issn": "1000-7210",
+   "level": "核心库"
+  },
+  {
+   "name": "石油化工",
+   "issn": "1000-8144",
+   "level": "核心库"
+  },
+  {
+   "name": "石油勘探与开发",
+   "issn": "1000-0747",
+   "level": "核心库"
+  },
+  {
+   "name": "石油实验地质",
+   "issn": "1001-6112",
+   "level": "核心库"
+  },
+  {
+   "name": "石油物探",
+   "issn": "1000-1441",
+   "level": "核心库"
+  },
+  {
+   "name": "石油学报",
+   "issn": "0253-2697",
+   "level": "核心库"
+  },
+  {
+   "name": "石油与天然气地质",
+   "issn": "0253-9985",
+   "level": "核心库"
+  },
+  {
+   "name": "时间频率学报",
+   "issn": "1674-0637",
+   "level": "核心库"
+  },
+  {
+   "name": "实验力学",
+   "issn": "1001-4888",
+   "level": "核心库"
+  },
+  {
+   "name": "实验流体力学",
+   "issn": "1672-9897",
+   "level": "核心库"
+  },
+  {
+   "name": "食品科学",
+   "issn": "1002-6630",
+   "level": "核心库"
+  },
+  {
+   "name": "食品科学技术学报",
+   "issn": "2095-6002",
+   "level": "核心库"
+  },
+  {
+   "name": "食品与发酵工业",
+   "issn": "0253-990X",
+   "level": "核心库"
+  },
+  {
+   "name": "世界林业研究",
+   "issn": "1001-4241",
+   "level": "核心库"
+  },
+  {
+   "name": "数据分析与知识发现",
+   "issn": "2096-3467",
+   "level": "核心库"
+  },
+  {
+   "name": "数量经济技术经济研究",
+   "issn": "1000-3894",
+   "level": "核心库"
+  },
+  {
+   "name": "数学物理学报. A 辑",
+   "issn": "1003-3998",
+   "level": "核心库"
+  },
+  {
+   "name": "数学学报",
+   "issn": "0583-1431",
+   "level": "核心库"
+  },
+  {
+   "name": "水产学报",
+   "issn": "1000-0615",
+   "level": "核心库"
+  },
+  {
+   "name": "水科学进展",
+   "issn": "1001-6791",
+   "level": "核心库"
+  },
+  {
+   "name": "水力发电学报",
+   "issn": "1003-1243",
+   "level": "核心库"
+  },
+  {
+   "name": "水利水电科技进展",
+   "issn": "1006-7647",
+   "level": "核心库"
+  },
+  {
+   "name": "水利学报",
+   "issn": "0559-9350",
+   "level": "核心库"
+  },
+  {
+   "name": "水生生物学报",
+   "issn": "1000-3207",
+   "level": "核心库"
+  },
+  {
+   "name": "水生态学杂志",
+   "issn": "1674-3075",
+   "level": "核心库"
+  },
+  {
+   "name": "水土保持学报",
+   "issn": "1009-2242",
+   "level": "核心库"
+  },
+  {
+   "name": "水土保持研究",
+   "issn": "1005-3409",
+   "level": "核心库"
+  },
+  {
+   "name": "水文地质工程地质",
+   "issn": "1000-3665",
+   "level": "核心库"
+  },
+  {
+   "name": "水资源保护",
+   "issn": "1004-6933",
+   "level": "核心库"
+  },
+  {
+   "name": "水资源与水工程学报",
+   "issn": "1672-643X",
+   "level": "核心库"
+  },
+  {
+   "name": "丝绸",
+   "issn": "1001-7003",
+   "level": "核心库"
+  },
+  {
+   "name": "四川大学学报. 医学版",
+   "issn": "1672-173X",
+   "level": "核心库"
+  },
+  {
+   "name": "塑料工业",
+   "issn": "1005-5770",
+   "level": "核心库"
+  },
+  {
+   "name": "塑性工程学报",
+   "issn": "1007-2012",
+   "level": "核心库"
+  },
+  {
+   "name": "隧道建设（中英文）",
+   "issn": "2096-4498",
+   "level": "核心库"
+  },
+  {
+   "name": "特种油气藏",
+   "issn": "1006-6535",
+   "level": "核心库"
+  },
+  {
+   "name": "天津大学学报. 自然科学与工程技术版",
+   "issn": "0493-2137",
+   "level": "核心库"
+  },
+  {
+   "name": "天然产物研究与开发",
+   "issn": "1001-6880",
+   "level": "核心库"
+  },
+  {
+   "name": "天然气地球科学",
+   "issn": "1672-1926",
+   "level": "核心库"
+  },
+  {
+   "name": "天然气工业",
+   "issn": "1000-0976",
+   "level": "核心库"
+  },
+  {
+   "name": "天文学报",
+   "issn": "0001-5245",
+   "level": "核心库"
+  },
+  {
+   "name": "天文学进展",
+   "issn": "1000-8349",
+   "level": "核心库"
+  },
+  {
+   "name": "铁道工程学报",
+   "issn": "1006-2106",
+   "level": "核心库"
+  },
+  {
+   "name": "铁道科学与工程学报",
+   "issn": "1672-7029",
+   "level": "核心库"
+  },
+  {
+   "name": "铁道学报",
+   "issn": "1001-8360",
+   "level": "核心库"
+  },
+  {
+   "name": "听力学及言语疾病杂志",
+   "issn": "1006-7299",
+   "level": "核心库"
+  },
+  {
+   "name": "通信学报",
+   "issn": "1000-436X",
+   "level": "核心库"
+  },
+  {
+   "name": "同济大学学报. 自然科学版",
+   "issn": "0253-374X",
+   "level": "核心库"
+  },
+  {
+   "name": "图学学报",
+   "issn": "2095-302X",
+   "level": "核心库"
+  },
+  {
+   "name": "土木工程学报",
+   "issn": "1000-131X",
+   "level": "核心库"
+  },
+  {
+   "name": "土木与环境工程学报（中英文）",
+   "issn": "2096-6717",
+   "level": "核心库"
+  },
+  {
+   "name": "土壤",
+   "issn": "0253-9829",
+   "level": "核心库"
+  },
+  {
+   "name": "土壤通报",
+   "issn": "0564-3945",
+   "level": "核心库"
+  },
+  {
+   "name": "土壤学报",
+   "issn": "0564-3929",
+   "level": "核心库"
+  },
+  {
+   "name": "推进技术",
+   "issn": "1001-4055",
+   "level": "核心库"
+  },
+  {
+   "name": "网络空间安全科学学报",
+   "issn": "2097-3136",
+   "level": "核心库"
+  },
+  {
+   "name": "微生物学报",
+   "issn": "0001-6209",
+   "level": "核心库"
+  },
+  {
+   "name": "微生物学通报",
+   "issn": "0253-2654",
+   "level": "核心库"
+  },
+  {
+   "name": "微体古生物学报（中英文）",
+   "issn": "2097-5139",
+   "level": "核心库"
+  },
+  {
+   "name": "卫生研究",
+   "issn": "1000-8020",
+   "level": "核心库"
+  },
+  {
+   "name": "无机材料学报",
+   "issn": "1000-324X",
+   "level": "核心库"
+  },
+  {
+   "name": "武汉大学学报. 工学版",
+   "issn": "1671-8844",
+   "level": "核心库"
+  },
+  {
+   "name": "武汉大学学报. 理学版",
+   "issn": "1671-8836",
+   "level": "核心库"
+  },
+  {
+   "name": "武汉大学学报. 信息科学版",
+   "issn": "1671-8860",
+   "level": "核心库"
+  },
+  {
+   "name": "物理化学学报",
+   "issn": "1000-6818",
+   "level": "核心库"
+  },
+  {
+   "name": "物理学报",
+   "issn": "1000-3290",
+   "level": "核心库"
+  },
+  {
+   "name": "西安电子科技大学学报",
+   "issn": "1001-2400",
+   "level": "核心库"
+  },
+  {
+   "name": "西安交通大学学报",
+   "issn": "0253-987X",
+   "level": "核心库"
+  },
+  {
+   "name": "西安交通大学学报. 医学版",
+   "issn": "1671-8259",
+   "level": "核心库"
+  },
+  {
+   "name": "西北大学学报. 自然科学版",
+   "issn": "1000-274X",
+   "level": "核心库"
+  },
+  {
+   "name": "西北工业大学学报",
+   "issn": "1000-2758",
+   "level": "核心库"
+  },
+  {
+   "name": "西北林学院学报",
+   "issn": "1001-7461",
+   "level": "核心库"
+  },
+  {
+   "name": "西北农林科技大学学报. 自然科学版",
+   "issn": "1671-9387",
+   "level": "核心库"
+  },
+  {
+   "name": "西北农业学报",
+   "issn": "1004-1389",
+   "level": "核心库"
+  },
+  {
+   "name": "西北植物学报",
+   "issn": "1000-4025",
+   "level": "核心库"
+  },
+  {
+   "name": "西南交通大学学报",
+   "issn": "0258-2724",
+   "level": "核心库"
+  },
+  {
+   "name": "稀有金属",
+   "issn": "0258-7076",
+   "level": "核心库"
+  },
+  {
+   "name": "稀有金属材料与工程",
+   "issn": "1002-185X",
+   "level": "核心库"
+  },
+  {
+   "name": "系统仿真学报",
+   "issn": "1004-731X",
+   "level": "核心库"
+  },
+  {
+   "name": "系统工程理论与实践",
+   "issn": "1000-6788",
+   "level": "核心库"
+  },
+  {
+   "name": "系统工程学报",
+   "issn": "1000-5781",
+   "level": "核心库"
+  },
+  {
+   "name": "系统工程与电子技术",
+   "issn": "1001-506X",
+   "level": "核心库"
+  },
+  {
+   "name": "系统管理学报",
+   "issn": "2097-4558",
+   "level": "核心库"
+  },
+  {
+   "name": "系统科学与数学",
+   "issn": "1000-0577",
+   "level": "核心库"
+  },
+  {
+   "name": "现代地质",
+   "issn": "1000-8527",
+   "level": "核心库"
+  },
+  {
+   "name": "现代隧道技术",
+   "issn": "1009-6582",
+   "level": "核心库"
+  },
+  {
+   "name": "协和医学杂志",
+   "issn": "1674-9081",
+   "level": "核心库"
+  },
+  {
+   "name": "心理科学进展",
+   "issn": "1671-3710",
+   "level": "核心库"
+  },
+  {
+   "name": "心理学报",
+   "issn": "0439-755X",
+   "level": "核心库"
+  },
+  {
+   "name": "新疆石油地质",
+   "issn": "1001-3873",
+   "level": "核心库"
+  },
+  {
+   "name": "新能源进展",
+   "issn": "2095-560X",
+   "level": "核心库"
+  },
+  {
+   "name": "新型炭材料（中英文）",
+   "issn": "2097-1605",
+   "level": "核心库"
+  },
+  {
+   "name": "信号处理",
+   "issn": "1003-0530",
+   "level": "核心库"
+  },
+  {
+   "name": "信息安全学报",
+   "issn": "2096-1146",
+   "level": "核心库"
+  },
+  {
+   "name": "信息与控制",
+   "issn": "1002-0411",
+   "level": "核心库"
+  },
+  {
+   "name": "畜牧兽医学报",
+   "issn": "0366-6964",
+   "level": "核心库"
+  },
+  {
+   "name": "烟草科技",
+   "issn": "1002-0861",
+   "level": "核心库"
+  },
+  {
+   "name": "岩矿测试",
+   "issn": "0254-5357",
+   "level": "核心库"
+  },
+  {
+   "name": "岩石矿物学杂志",
+   "issn": "1000-6524",
+   "level": "核心库"
+  },
+  {
+   "name": "岩石力学与工程学报",
+   "issn": "1000-6915",
+   "level": "核心库"
+  },
+  {
+   "name": "岩石学报",
+   "issn": "1000-0569",
+   "level": "核心库"
+  },
+  {
+   "name": "岩土工程学报",
+   "issn": "1000-4548",
+   "level": "核心库"
+  },
+  {
+   "name": "岩土力学",
+   "issn": "1000-7598",
+   "level": "核心库"
+  },
+  {
+   "name": "岩性油气藏",
+   "issn": "1673-8926",
+   "level": "核心库"
+  },
+  {
+   "name": "盐湖研究",
+   "issn": "1008-858X",
+   "level": "核心库"
+  },
+  {
+   "name": "遥感技术与应用",
+   "issn": "1004-0323",
+   "level": "核心库"
+  },
+  {
+   "name": "遥感信息",
+   "issn": "1000-3177",
+   "level": "核心库"
+  },
+  {
+   "name": "遥感学报",
+   "issn": "1007-4619",
+   "level": "核心库"
+  },
+  {
+   "name": "药物分析杂志",
+   "issn": "0254-1793",
+   "level": "核心库"
+  },
+  {
+   "name": "药学学报",
+   "issn": "0513-4870",
+   "level": "核心库"
+  },
+  {
+   "name": "医用生物力学",
+   "issn": "1004-7220",
+   "level": "核心库"
+  },
+  {
+   "name": "仪器仪表学报",
+   "issn": "0254-3087",
+   "level": "核心库"
+  },
+  {
+   "name": "遗传",
+   "issn": "0253-9772",
+   "level": "核心库"
+  },
+  {
+   "name": "营养学报",
+   "issn": "0512-7955",
+   "level": "核心库"
+  },
+  {
+   "name": "应用化学",
+   "issn": "1000-0518",
+   "level": "核心库"
+  },
+  {
+   "name": "应用基础与工程科学学报",
+   "issn": "1005-0930",
+   "level": "核心库"
+  },
+  {
+   "name": "应用昆虫学报",
+   "issn": "2095-1353",
+   "level": "核心库"
+  },
+  {
+   "name": "应用气象学报",
+   "issn": "1001-7313",
+   "level": "核心库"
+  },
+  {
+   "name": "应用生态学报",
+   "issn": "1001-9332",
+   "level": "核心库"
+  },
+  {
+   "name": "应用数学学报",
+   "issn": "0254-3079",
+   "level": "核心库"
+  },
+  {
+   "name": "应用与环境生物学报",
+   "issn": "1006-687X",
+   "level": "核心库"
+  },
+  {
+   "name": "油气藏评价与开发",
+   "issn": "2095-1426",
+   "level": "核心库"
+  },
+  {
+   "name": "油气地质与采收率",
+   "issn": "1009-9603",
+   "level": "核心库"
+  },
+  {
+   "name": "渔业科学进展",
+   "issn": "2095-9869",
+   "level": "核心库"
+  },
+  {
+   "name": "宇航材料工艺",
+   "issn": "1007-2330",
+   "level": "核心库"
+  },
+  {
+   "name": "宇航学报",
+   "issn": "1000-1328",
+   "level": "核心库"
+  },
+  {
+   "name": "玉米科学",
+   "issn": "1005-0906",
+   "level": "核心库"
+  },
+  {
+   "name": "园艺学报",
+   "issn": "0513-353X",
+   "level": "核心库"
+  },
+  {
+   "name": "原子能科学技术",
+   "issn": "1000-6931",
+   "level": "核心库"
+  },
+  {
+   "name": "运筹学学报（中英文）",
+   "issn": "1007-6093",
+   "level": "核心库"
+  },
+  {
+   "name": "灾害学",
+   "issn": "1000-811X",
+   "level": "核心库"
+  },
+  {
+   "name": "载人航天",
+   "issn": "1674-5825",
+   "level": "核心库"
+  },
+  {
+   "name": "噪声与振动控制",
+   "issn": "1006-1355",
+   "level": "核心库"
+  },
+  {
+   "name": "战术导弹技术",
+   "issn": "1009-1300",
+   "level": "核心库"
+  },
+  {
+   "name": "长安大学学报. 自然科学版",
+   "issn": "1671-8879",
+   "level": "核心库"
+  },
+  {
+   "name": "长江科学院院报",
+   "issn": "1001-5485",
+   "level": "核心库"
+  },
+  {
+   "name": "长江流域资源与环境",
+   "issn": "1004-8227",
+   "level": "核心库"
+  },
+  {
+   "name": "浙江大学学报. 工学版",
+   "issn": "1008-973X",
+   "level": "核心库"
+  },
+  {
+   "name": "浙江大学学报. 理学版",
+   "issn": "1008-9497",
+   "level": "核心库"
+  },
+  {
+   "name": "浙江大学学报. 农业与生命科学版",
+   "issn": "1008-9209",
+   "level": "核心库"
+  },
+  {
+   "name": "浙江大学学报. 医学版",
+   "issn": "1008-9292",
+   "level": "核心库"
+  },
+  {
+   "name": "浙江农林大学学报",
+   "issn": "2095-0756",
+   "level": "核心库"
+  },
+  {
+   "name": "针刺研究",
+   "issn": "1000-0607",
+   "level": "核心库"
+  },
+  {
+   "name": "振动、测试与诊断",
+   "issn": "1004-6801",
+   "level": "核心库"
+  },
+  {
+   "name": "振动工程学报",
+   "issn": "1004-4523",
+   "level": "核心库"
+  },
+  {
+   "name": "振动与冲击",
+   "issn": "1000-3835",
+   "level": "核心库"
+  },
+  {
+   "name": "植物保护",
+   "issn": "0529-1542",
+   "level": "核心库"
+  },
+  {
+   "name": "植物保护学报",
+   "issn": "0577-7518",
+   "level": "核心库"
+  },
+  {
+   "name": "植物病理学报",
+   "issn": "0412-0914",
+   "level": "核心库"
+  },
+  {
+   "name": "植物科学学报",
+   "issn": "2095-0837",
+   "level": "核心库"
+  },
+  {
+   "name": "植物生理学报",
+   "issn": "2095-1108",
+   "level": "核心库"
+  },
+  {
+   "name": "植物生态学报",
+   "issn": "1005-264X",
+   "level": "核心库"
+  },
+  {
+   "name": "植物学报",
+   "issn": "1674-3466",
+   "level": "核心库"
+  },
+  {
+   "name": "植物研究",
+   "issn": "1673-5102",
+   "level": "核心库"
+  },
+  {
+   "name": "植物遗传资源学报",
+   "issn": "1672-1810",
+   "level": "核心库"
+  },
+  {
+   "name": "植物营养与肥料学报",
+   "issn": "1008-505X",
+   "level": "核心库"
+  },
+  {
+   "name": "植物资源与环境学报",
+   "issn": "1674-7895",
+   "level": "核心库"
+  },
+  {
+   "name": "指挥与控制学报",
+   "issn": "2096-0204",
+   "level": "核心库"
+  },
+  {
+   "name": "制冷学报",
+   "issn": "0253-4339",
+   "level": "核心库"
+  },
+  {
+   "name": "质谱学报",
+   "issn": "1004-2997",
+   "level": "核心库"
+  },
+  {
+   "name": "智慧农业（中英文）",
+   "issn": "2096-8094",
+   "level": "核心库"
+  },
+  {
+   "name": "智能科学与技术学报",
+   "issn": "2096-6652",
+   "level": "核心库"
+  },
+  {
+   "name": "智能系统学报",
+   "issn": "1673-4785",
+   "level": "核心库"
+  },
+  {
+   "name": "中草药",
+   "issn": "0253-2670",
+   "level": "核心库"
+  },
+  {
+   "name": "中成药",
+   "issn": "1001-1528",
+   "level": "核心库"
+  },
+  {
+   "name": "中国癌症杂志",
+   "issn": "1007-3639",
+   "level": "核心库"
+  },
+  {
+   "name": "中国艾滋病性病",
+   "issn": "1672-5662",
+   "level": "核心库"
+  },
+  {
+   "name": "中国安全科学学报",
+   "issn": "1003-3033",
+   "level": "核心库"
+  },
+  {
+   "name": "中国表面工程",
+   "issn": "1007-9289",
+   "level": "核心库"
+  },
+  {
+   "name": "中国病理生理杂志",
+   "issn": "1000-4718",
+   "level": "核心库"
+  },
+  {
+   "name": "中国病原生物学杂志",
+   "issn": "1673-5234",
+   "level": "核心库"
+  },
+  {
+   "name": "中国材料进展",
+   "issn": "1674-3962",
+   "level": "核心库"
+  },
+  {
+   "name": "中国草地学报",
+   "issn": "1673-5021",
+   "level": "核心库"
+  },
+  {
+   "name": "中国畜牧兽医",
+   "issn": "1671-7236",
+   "level": "核心库"
+  },
+  {
+   "name": "中国当代儿科杂志",
+   "issn": "1008-8830",
+   "level": "核心库"
+  },
+  {
+   "name": "中国地质",
+   "issn": "1000-3657",
+   "level": "核心库"
+  },
+  {
+   "name": "中国地质灾害与防治学报",
+   "issn": "1003-8035",
+   "level": "核心库"
+  },
+  {
+   "name": "中国电机工程学报",
+   "issn": "0258-8013",
+   "level": "核心库"
+  },
+  {
+   "name": "中国电力",
+   "issn": "1004-9649",
+   "level": "核心库"
+  },
+  {
+   "name": "中国防痨杂志",
+   "issn": "1000-6621",
+   "level": "核心库"
+  },
+  {
+   "name": "中国肺癌杂志",
+   "issn": "1009-3419",
+   "level": "核心库"
+  },
+  {
+   "name": "中国腐蚀与防护学报",
+   "issn": "1005-4537",
+   "level": "核心库"
+  },
+  {
+   "name": "中国感染控制杂志",
+   "issn": "1671-9638",
+   "level": "核心库"
+  },
+  {
+   "name": "中国感染与化疗杂志",
+   "issn": "1009-7708",
+   "level": "核心库"
+  },
+  {
+   "name": "中国给水排水",
+   "issn": "1000-4602",
+   "level": "核心库"
+  },
+  {
+   "name": "中国工程科学",
+   "issn": "1009-1742",
+   "level": "核心库"
+  },
+  {
+   "name": "中国公共卫生",
+   "issn": "1001-0580",
+   "level": "核心库"
+  },
+  {
+   "name": "中国公路学报",
+   "issn": "1001-7372",
+   "level": "核心库"
+  },
+  {
+   "name": "中国骨质疏松杂志",
+   "issn": "1006-7108",
+   "level": "核心库"
+  },
+  {
+   "name": "中国管理科学",
+   "issn": "1003-207X",
+   "level": "核心库"
+  },
+  {
+   "name": "中国惯性技术学报",
+   "issn": "1005-6734",
+   "level": "核心库"
+  },
+  {
+   "name": "中国光学（中英文）",
+   "issn": "2097-1842",
+   "level": "核心库"
+  },
+  {
+   "name": "中国海上油气",
+   "issn": "1673-1506",
+   "level": "核心库"
+  },
+  {
+   "name": "中国海洋大学学报. 自然科学版",
+   "issn": "1672-5174",
+   "level": "核心库"
+  },
+  {
+   "name": "中国呼吸与危重监护杂志",
+   "issn": "1671-6205",
+   "level": "核心库"
+  },
+  {
+   "name": "中国护理管理",
+   "issn": "1672-1756",
+   "level": "核心库"
+  },
+  {
+   "name": "中国环境监测",
+   "issn": "1002-6002",
+   "level": "核心库"
+  },
+  {
+   "name": "中国环境科学",
+   "issn": "1000-6923",
+   "level": "核心库"
+  },
+  {
+   "name": "中国机械工程",
+   "issn": "1004-132X",
+   "level": "核心库"
+  },
+  {
+   "name": "中国激光",
+   "issn": "0258-7025",
+   "level": "核心库"
+  },
+  {
+   "name": "中国急救医学",
+   "issn": "1002-1949",
+   "level": "核心库"
+  },
+  {
+   "name": "中国脊柱脊髓杂志",
+   "issn": "1004-406X",
+   "level": "核心库"
+  },
+  {
+   "name": "中国寄生虫学与寄生虫病杂志",
+   "issn": "1000-7423",
+   "level": "核心库"
+  },
+  {
+   "name": "中国舰船研究",
+   "issn": "1673-3185",
+   "level": "核心库"
+  },
+  {
+   "name": "中国康复理论与实践",
+   "issn": "1006-9771",
+   "level": "核心库"
+  },
+  {
+   "name": "中国康复医学杂志",
+   "issn": "1001-1242",
+   "level": "核心库"
+  },
+  {
+   "name": "中国抗生素杂志",
+   "issn": "1001-8689",
+   "level": "核心库"
+  },
+  {
+   "name": "中国科学. 地球科学",
+   "issn": "1674-7240",
+   "level": "核心库"
+  },
+  {
+   "name": "中国科学. 化学",
+   "issn": "1674-7224",
+   "level": "核心库"
+  },
+  {
+   "name": "中国科学. 技术科学",
+   "issn": "1674-7259",
+   "level": "核心库"
+  },
+  {
+   "name": "中国科学. 生命科学",
+   "issn": "1674-7232",
+   "level": "核心库"
+  },
+  {
+   "name": "中国科学. 数学",
+   "issn": "1674-7216",
+   "level": "核心库"
+  },
+  {
+   "name": "中国科学. 物理学, 力学, 天文学",
+   "issn": "1674-7275",
+   "level": "核心库"
+  },
+  {
+   "name": "中国科学. 信息科学",
+   "issn": "1674-7267",
+   "level": "核心库"
+  },
+  {
+   "name": "中国科学基金",
+   "issn": "1000-8217",
+   "level": "核心库"
+  },
+  {
+   "name": "中国科学数据",
+   "issn": "2096-2223",
+   "level": "核心库"
+  },
+  {
+   "name": "中国科学院大学学报（中英文）",
+   "issn": "2095-6134",
+   "level": "核心库"
+  },
+  {
+   "name": "中国科学院院刊",
+   "issn": "1000-3045",
+   "level": "核心库"
+  },
+  {
+   "name": "中国空间科学技术（中英文）",
+   "issn": "1000-758X",
+   "level": "核心库"
+  },
+  {
+   "name": "中国矿业大学学报. 自然科学版",
+   "issn": "1000-1964",
+   "level": "核心库"
+  },
+  {
+   "name": "中国粮油学报",
+   "issn": "1003-0174",
+   "level": "核心库"
+  },
+  {
+   "name": "中国临床心理学杂志",
+   "issn": "1005-3611",
+   "level": "核心库"
+  },
+  {
+   "name": "中国临床药理学与治疗学",
+   "issn": "1009-2501",
+   "level": "核心库"
+  },
+  {
+   "name": "中国慢性病预防与控制",
+   "issn": "1004-6194",
+   "level": "核心库"
+  },
+  {
+   "name": "中国免疫学杂志",
+   "issn": "1000-484X",
+   "level": "核心库"
+  },
+  {
+   "name": "中国脑血管病杂志",
+   "issn": "1672-5921",
+   "level": "核心库"
+  },
+  {
+   "name": "中国农业大学学报",
+   "issn": "1007-4333",
+   "level": "核心库"
+  },
+  {
+   "name": "中国农业科学",
+   "issn": "0578-1752",
+   "level": "核心库"
+  },
+  {
+   "name": "中国农业气象",
+   "issn": "1000-6362",
+   "level": "核心库"
+  },
+  {
+   "name": "中国农业资源与区划",
+   "issn": "1005-9121",
+   "level": "核心库"
+  },
+  {
+   "name": "中国普通外科杂志",
+   "issn": "1005-6947",
+   "level": "核心库"
+  },
+  {
+   "name": "中国人口·资源与环境",
+   "issn": "1002-2104",
+   "level": "核心库"
+  },
+  {
+   "name": "中国人兽共患病学报",
+   "issn": "1002-2694",
+   "level": "核心库"
+  },
+  {
+   "name": "中国软科学",
+   "issn": "1005-0566",
+   "level": "核心库"
+  },
+  {
+   "name": "中国沙漠",
+   "issn": "1000-694X",
+   "level": "核心库"
+  },
+  {
+   "name": "中国生态农业学报（中英文）",
+   "issn": "2096-6237",
+   "level": "核心库"
+  },
+  {
+   "name": "中国生物防治学报",
+   "issn": "2095-039X",
+   "level": "核心库"
+  },
+  {
+   "name": "中国生物医学工程学报",
+   "issn": "0258-8021",
+   "level": "核心库"
+  },
+  {
+   "name": "中国石油勘探",
+   "issn": "1672-7703",
+   "level": "核心库"
+  },
+  {
+   "name": "中国实验方剂学杂志",
+   "issn": "1005-9903",
+   "level": "核心库"
+  },
+  {
+   "name": "中国实用儿科杂志",
+   "issn": "1005-2224",
+   "level": "核心库"
+  },
+  {
+   "name": "中国实用妇科与产科杂志",
+   "issn": "1005-2216",
+   "level": "核心库"
+  },
+  {
+   "name": "中国实用内科杂志",
+   "issn": "1005-2194",
+   "level": "核心库"
+  },
+  {
+   "name": "中国实用外科杂志",
+   "issn": "1005-2208",
+   "level": "核心库"
+  },
+  {
+   "name": "中国食品卫生杂志",
+   "issn": "1004-8456",
+   "level": "核心库"
+  },
+  {
+   "name": "中国食品学报",
+   "issn": "1009-7848",
+   "level": "核心库"
+  },
+  {
+   "name": "中国水产科学",
+   "issn": "1005-8737",
+   "level": "核心库"
+  },
+  {
+   "name": "中国水稻科学",
+   "issn": "1001-7216",
+   "level": "核心库"
+  },
+  {
+   "name": "中国水土保持科学（中英文）",
+   "issn": "2096-2673",
+   "level": "核心库"
+  },
+  {
+   "name": "中国塑料",
+   "issn": "1001-9278",
+   "level": "核心库"
+  },
+  {
+   "name": "中国糖尿病杂志",
+   "issn": "1006-6187",
+   "level": "核心库"
+  },
+  {
+   "name": "中国疼痛医学杂志",
+   "issn": "1006-9852",
+   "level": "核心库"
+  },
+  {
+   "name": "中国铁道科学",
+   "issn": "1001-4632",
+   "level": "核心库"
+  },
+  {
+   "name": "中国图象图形学报",
+   "issn": "1006-8961",
+   "level": "核心库"
+  },
+  {
+   "name": "中国土地科学",
+   "issn": "1001-8158",
+   "level": "核心库"
+  },
+  {
+   "name": "中国土壤与肥料",
+   "issn": "1673-6257",
+   "level": "核心库"
+  },
+  {
+   "name": "中国卫生统计",
+   "issn": "1002-3674",
+   "level": "核心库"
+  },
+  {
+   "name": "中国卫生政策研究",
+   "issn": "1674-2982",
+   "level": "核心库"
+  },
+  {
+   "name": "中国稀土学报",
+   "issn": "1000-4343",
+   "level": "核心库"
+  },
+  {
+   "name": "中国现代应用药学",
+   "issn": "1007-7693",
+   "level": "核心库"
+  },
+  {
+   "name": "中国心理卫生杂志",
+   "issn": "1000-6729",
+   "level": "核心库"
+  },
+  {
+   "name": "中国新药杂志",
+   "issn": "1003-3734",
+   "level": "核心库"
+  },
+  {
+   "name": "中国修复重建外科杂志",
+   "issn": "1002-1892",
+   "level": "核心库"
+  },
+  {
+   "name": "中国血吸虫病防治杂志（中英文）",
+   "issn": "1005-6661",
+   "level": "核心库"
+  },
+  {
+   "name": "中国循环杂志",
+   "issn": "1000-3614",
+   "level": "核心库"
+  },
+  {
+   "name": "中国循证儿科杂志",
+   "issn": "1673-5501",
+   "level": "核心库"
+  },
+  {
+   "name": "中国循证医学杂志",
+   "issn": "1672-2531",
+   "level": "核心库"
+  },
+  {
+   "name": "中国药科大学学报",
+   "issn": "1000-5048",
+   "level": "核心库"
+  },
+  {
+   "name": "中国药理学通报",
+   "issn": "1001-1978",
+   "level": "核心库"
+  },
+  {
+   "name": "中国药学杂志",
+   "issn": "1001-2494",
+   "level": "核心库"
+  },
+  {
+   "name": "中国医学科学院学报",
+   "issn": "1000-503X",
+   "level": "核心库"
+  },
+  {
+   "name": "中国医学影像学杂志",
+   "issn": "1005-5185",
+   "level": "核心库"
+  },
+  {
+   "name": "中国疫苗和免疫",
+   "issn": "1006-916X",
+   "level": "核心库"
+  },
+  {
+   "name": "中国油料作物学报",
+   "issn": "1007-9084",
+   "level": "核心库"
+  },
+  {
+   "name": "中国油脂",
+   "issn": "1003-7969",
+   "level": "核心库"
+  },
+  {
+   "name": "中国有色金属学报",
+   "issn": "1004-0609",
+   "level": "核心库"
+  },
+  {
+   "name": "中国运动医学杂志",
+   "issn": "1000-6710",
+   "level": "核心库"
+  },
+  {
+   "name": "中国造船",
+   "issn": "1000-4882",
+   "level": "核心库"
+  },
+  {
+   "name": "中国针灸",
+   "issn": "0255-2930",
+   "level": "核心库"
+  },
+  {
+   "name": "中国真菌学杂志",
+   "issn": "1673-3827",
+   "level": "核心库"
+  },
+  {
+   "name": "中国中西医结合杂志",
+   "issn": "1003-5370",
+   "level": "核心库"
+  },
+  {
+   "name": "中国中药杂志",
+   "issn": "1001-5302",
+   "level": "核心库"
+  },
+  {
+   "name": "中国肿瘤",
+   "issn": "1004-0242",
+   "level": "核心库"
+  },
+  {
+   "name": "中国肿瘤临床",
+   "issn": "1000-8179",
+   "level": "核心库"
+  },
+  {
+   "name": "中华病理学杂志",
+   "issn": "0529-5807",
+   "level": "核心库"
+  },
+  {
+   "name": "中华超声影像学杂志",
+   "issn": "1004-4477",
+   "level": "核心库"
+  },
+  {
+   "name": "中华传染病杂志",
+   "issn": "1000-6680",
+   "level": "核心库"
+  },
+  {
+   "name": "中华创伤骨科杂志",
+   "issn": "1671-7600",
+   "level": "核心库"
+  },
+  {
+   "name": "中华创伤杂志",
+   "issn": "1001-8050",
+   "level": "核心库"
+  },
+  {
+   "name": "中华儿科杂志",
+   "issn": "0578-1310",
+   "level": "核心库"
+  },
+  {
+   "name": "中华耳鼻咽喉头颈外科杂志",
+   "issn": "1673-0860",
+   "level": "核心库"
+  },
+  {
+   "name": "中华耳科学杂志",
+   "issn": "1672-2922",
+   "level": "核心库"
+  },
+  {
+   "name": "中华放射学杂志",
+   "issn": "1005-1201",
+   "level": "核心库"
+  },
+  {
+   "name": "中华放射医学与防护杂志",
+   "issn": "0254-5098",
+   "level": "核心库"
+  },
+  {
+   "name": "中华放射肿瘤学杂志",
+   "issn": "1004-4221",
+   "level": "核心库"
+  },
+  {
+   "name": "中华妇产科杂志",
+   "issn": "0529-567X",
+   "level": "核心库"
+  },
+  {
+   "name": "中华肝胆外科杂志",
+   "issn": "1007-8118",
+   "level": "核心库"
+  },
+  {
+   "name": "中华肝脏病杂志",
+   "issn": "1007-3418",
+   "level": "核心库"
+  },
+  {
+   "name": "中华骨科杂志",
+   "issn": "0253-2352",
+   "level": "核心库"
+  },
+  {
+   "name": "中华骨与关节外科杂志",
+   "issn": "2095-9958",
+   "level": "核心库"
+  },
+  {
+   "name": "中华骨质疏松和骨矿盐疾病杂志",
+   "issn": "1674-2591",
+   "level": "核心库"
+  },
+  {
+   "name": "中华护理杂志",
+   "issn": "0254-1769",
+   "level": "核心库"
+  },
+  {
+   "name": "中华急诊医学杂志",
+   "issn": "1671-0282",
+   "level": "核心库"
+  },
+  {
+   "name": "中华疾病控制杂志",
+   "issn": "1674-3679",
+   "level": "核心库"
+  },
+  {
+   "name": "中华检验医学杂志",
+   "issn": "1009-9158",
+   "level": "核心库"
+  },
+  {
+   "name": "中华健康管理学杂志",
+   "issn": "1674-0815",
+   "level": "核心库"
+  },
+  {
+   "name": "中华结核和呼吸杂志",
+   "issn": "1001-0939",
+   "level": "核心库"
+  },
+  {
+   "name": "中华精神科杂志",
+   "issn": "1006-7884",
+   "level": "核心库"
+  },
+  {
+   "name": "中华口腔医学杂志",
+   "issn": "1002-0098",
+   "level": "核心库"
+  },
+  {
+   "name": "中华老年医学杂志",
+   "issn": "0254-9026",
+   "level": "核心库"
+  },
+  {
+   "name": "中华临床感染病杂志（中英文）",
+   "issn": "1674-2397",
+   "level": "核心库"
+  },
+  {
+   "name": "中华临床营养杂志",
+   "issn": "1674-635X",
+   "level": "核心库"
+  },
+  {
+   "name": "中华流行病学杂志",
+   "issn": "0254-6450",
+   "level": "核心库"
+  },
+  {
+   "name": "中华泌尿外科杂志",
+   "issn": "1000-6702",
+   "level": "核心库"
+  },
+  {
+   "name": "中华男科学杂志",
+   "issn": "1009-3591",
+   "level": "核心库"
+  },
+  {
+   "name": "中华内分泌代谢杂志",
+   "issn": "1000-6699",
+   "level": "核心库"
+  },
+  {
+   "name": "中华内科杂志",
+   "issn": "0578-1426",
+   "level": "核心库"
+  },
+  {
+   "name": "中华皮肤科杂志",
+   "issn": "0412-4030",
+   "level": "核心库"
+  },
+  {
+   "name": "中华烧伤与创面修复杂志",
+   "issn": "2097-1109",
+   "level": "核心库"
+  },
+  {
+   "name": "中华神经科杂志",
+   "issn": "1006-7876",
+   "level": "核心库"
+  },
+  {
+   "name": "中华神经外科杂志",
+   "issn": "1001-2346",
+   "level": "核心库"
+  },
+  {
+   "name": "中华神经医学杂志",
+   "issn": "1671-8925",
+   "level": "核心库"
+  },
+  {
+   "name": "中华肾脏病杂志",
+   "issn": "1001-7097",
+   "level": "核心库"
+  },
+  {
+   "name": "中华实验眼科杂志（中英文）",
+   "issn": "2095-0160",
+   "level": "核心库"
+  },
+  {
+   "name": "中华实用儿科临床杂志",
+   "issn": "2095-428X",
+   "level": "核心库"
+  },
+  {
+   "name": "中华手外科杂志",
+   "issn": "1005-054X",
+   "level": "核心库"
+  },
+  {
+   "name": "中华糖尿病杂志",
+   "issn": "1674-5809",
+   "level": "核心库"
+  },
+  {
+   "name": "中华外科杂志",
+   "issn": "0529-5815",
+   "level": "核心库"
+  },
+  {
+   "name": "中华危重病急救医学",
+   "issn": "2095-4352",
+   "level": "核心库"
+  },
+  {
+   "name": "中华微生物学和免疫学杂志",
+   "issn": "0254-5101",
+   "level": "核心库"
+  },
+  {
+   "name": "中华围产医学杂志",
+   "issn": "1007-9408",
+   "level": "核心库"
+  },
+  {
+   "name": "中华胃肠外科杂志",
+   "issn": "1671-0274",
+   "level": "核心库"
+  },
+  {
+   "name": "中华物理医学与康复杂志",
+   "issn": "0254-1424",
+   "level": "核心库"
+  },
+  {
+   "name": "中华显微外科杂志",
+   "issn": "1001-2036",
+   "level": "核心库"
+  },
+  {
+   "name": "中华消化外科杂志",
+   "issn": "1673-9752",
+   "level": "核心库"
+  },
+  {
+   "name": "中华消化杂志",
+   "issn": "0254-1432",
+   "level": "核心库"
+  },
+  {
+   "name": "中华小儿外科杂志",
+   "issn": "0253-3006",
+   "level": "核心库"
+  },
+  {
+   "name": "中华心血管病杂志",
+   "issn": "0253-3758",
+   "level": "核心库"
+  },
+  {
+   "name": "中华胸心血管外科杂志",
+   "issn": "1001-4497",
+   "level": "核心库"
+  },
+  {
+   "name": "中华血液学杂志",
+   "issn": "0253-2727",
+   "level": "核心库"
+  },
+  {
+   "name": "中华眼科杂志",
+   "issn": "0412-4081",
+   "level": "核心库"
+  },
+  {
+   "name": "中华医学超声杂志（电子版）",
+   "issn": "1672-6448",
+   "level": "核心库"
+  },
+  {
+   "name": "中华医学杂志",
+   "issn": "0376-2491",
+   "level": "核心库"
+  },
+  {
+   "name": "中华预防医学杂志",
+   "issn": "0253-9624",
+   "level": "核心库"
+  },
+  {
+   "name": "中华整形外科杂志",
+   "issn": "1009-4598",
+   "level": "核心库"
+  },
+  {
+   "name": "中华中医药杂志",
+   "issn": "1673-1727",
+   "level": "核心库"
+  },
+  {
+   "name": "中华肿瘤杂志",
+   "issn": "0253-3766",
+   "level": "核心库"
+  },
+  {
+   "name": "中南大学学报. 医学版",
+   "issn": "1672-7347",
+   "level": "核心库"
+  },
+  {
+   "name": "中南大学学报. 自然科学版",
+   "issn": "1672-7207",
+   "level": "核心库"
+  },
+  {
+   "name": "中南林业科技大学学报",
+   "issn": "1673-923X",
+   "level": "核心库"
+  },
+  {
+   "name": "中山大学学报. 医学科学版",
+   "issn": "1672-3554",
+   "level": "核心库"
+  },
+  {
+   "name": "中山大学学报. 自然科学版（中英文）",
+   "issn": "2097-0137",
+   "level": "核心库"
+  },
+  {
+   "name": "中文信息学报",
+   "issn": "1003-0077",
+   "level": "核心库"
+  },
+  {
+   "name": "中药新药与临床药理",
+   "issn": "1003-9783",
+   "level": "核心库"
+  },
+  {
+   "name": "中药药理与临床",
+   "issn": "1001-859X",
+   "level": "核心库"
+  },
+  {
+   "name": "中医杂志",
+   "issn": "1001-1668",
+   "level": "核心库"
+  },
+  {
+   "name": "资源科学",
+   "issn": "1007-7588",
+   "level": "核心库"
+  },
+  {
+   "name": "自动化学报",
+   "issn": "0254-4156",
+   "level": "核心库"
+  },
+  {
+   "name": "自然灾害学报",
+   "issn": "1004-4574",
+   "level": "核心库"
+  },
+  {
+   "name": "自然资源学报",
+   "issn": "1000-3037",
+   "level": "核心库"
+  },
+  {
+   "name": "自然资源遥感",
+   "issn": "2097-034X",
+   "level": "核心库"
+  },
+  {
+   "name": "作物学报",
+   "issn": "0496-3490",
+   "level": "核心库"
+  },
+  {
+   "name": "Analysis in Theory and Applications",
+   "issn": "1672-4070",
+   "level": "扩展库"
+  },
+  {
+   "name": "Blood Science",
+   "issn": "2543-6368",
+   "level": "扩展库"
+  },
+  {
+   "name": "Cardiology Discovery",
+   "issn": "2096-952X",
+   "level": "扩展库"
+  },
+  {
+   "name": "Chinese Journal of Acoustics",
+   "issn": "0217-9776",
+   "level": "扩展库"
+  },
+  {
+   "name": "Communications in Mathematical Research",
+   "issn": "1674-5647",
+   "level": "扩展库"
+  },
+  {
+   "name": "Data Science and Engineering",
+   "issn": "2364-1185",
+   "level": "扩展库"
+  },
+  {
+   "name": "Electrochemical Energy Reviews",
+   "issn": "2520-8489",
+   "level": "扩展库"
+  },
+  {
+   "name": "Electromagnetic Science",
+   "issn": "2836-9440",
+   "level": "扩展库"
+  },
+  {
+   "name": "Electron",
+   "issn": "2751-2606",
+   "level": "扩展库"
+  },
+  {
+   "name": "Energy Reviews",
+   "issn": "2772-9702",
+   "level": "扩展库"
+  },
+  {
+   "name": "Frontiers of Mathematics in China",
+   "issn": "1673-3452",
+   "level": "扩展库"
+  },
+  {
+   "name": "Health Data Science",
+   "issn": "2097-1095",
+   "level": "扩展库"
+  },
+  {
+   "name": "High-speed Railway",
+   "issn": "2097-3446",
+   "level": "扩展库"
+  },
+  {
+   "name": "iLABMED",
+   "issn": "2834-443X",
+   "level": "扩展库"
+  },
+  {
+   "name": "Intelligent Medicine",
+   "issn": "2096-9376",
+   "level": "扩展库"
+  },
+  {
+   "name": "iRADIOLOGY",
+   "issn": "2834-2860",
+   "level": "扩展库"
+  },
+  {
+   "name": "Journal of Automation and Intelligence",
+   "issn": "2949-8554",
+   "level": "扩展库"
+  },
+  {
+   "name": "Journal of Electronic Science and Technology",
+   "issn": "1674-862X",
+   "level": "扩展库"
+  },
+  {
+   "name": "Journal of Partial Differential Equations",
+   "issn": "1000-940X",
+   "level": "扩展库"
+  },
+  {
+   "name": "Mechanobiology in Medicine",
+   "issn": "2949-9070",
+   "level": "扩展库"
+  },
+  {
+   "name": "Applications Ocean-Land-Atmosphere Research",
+   "issn": "2771-0378",
+   "level": "扩展库"
+  },
+  {
+   "name": "One Health Advances",
+   "issn": "2731-9970",
+   "level": "扩展库"
+  },
+  {
+   "name": "Peking Mathematical Journal",
+   "issn": "2096-6075",
+   "level": "扩展库"
+  },
+  {
+   "name": "Quantum Frontiers",
+   "issn": "2731-6106",
+   "level": "扩展库"
+  },
+  {
+   "name": "Resilient Cities and Structures",
+   "issn": "2772-7416",
+   "level": "扩展库"
+  },
+  {
+   "name": "Security and Safety",
+   "issn": "2826-1275",
+   "level": "扩展库"
+  },
+  {
+   "name": "Statistical Theory and Related Fields",
+   "issn": "2475-4269",
+   "level": "扩展库"
+  },
+  {
+   "name": "Superconductivity",
+   "issn": "2772-8307",
+   "level": "扩展库"
+  },
+  {
+   "name": "Surface Science and Technology",
+   "issn": "2731-7838",
+   "level": "扩展库"
+  },
+  {
+   "name": "Ultrafast Science",
+   "issn": "2097-0331",
+   "level": "扩展库"
+  },
+  {
+   "name": "Virtual Reality & Intelligent Hardware",
+   "issn": "2096-5796",
+   "level": "扩展库"
+  },
+  {
+   "name": "Visual Informatics",
+   "issn": "2543-2656",
+   "level": "扩展库"
+  },
+  {
+   "name": "安徽农业大学学报",
+   "issn": "1672-352X",
+   "level": "扩展库"
+  },
+  {
+   "name": "安全与环境工程",
+   "issn": "1671-1556",
+   "level": "扩展库"
+  },
+  {
+   "name": "爆破",
+   "issn": "1001-487X",
+   "level": "扩展库"
+  },
+  {
+   "name": "爆破器材",
+   "issn": "1001-8352",
+   "level": "扩展库"
+  },
+  {
+   "name": "北京化工大学学报. 自然科学版",
+   "issn": "1671-4628",
+   "level": "扩展库"
+  },
+  {
+   "name": "北京邮电大学学报",
+   "issn": "1007-5321",
+   "level": "扩展库"
+  },
+  {
+   "name": "兵器材料科学与工程",
+   "issn": "1004-244X",
+   "level": "扩展库"
+  },
+  {
+   "name": "材料保护",
+   "issn": "1001-1560",
+   "level": "扩展库"
+  },
+  {
+   "name": "材料科学与工程学报",
+   "issn": "1673-2812",
+   "level": "扩展库"
+  },
+  {
+   "name": "蚕业科学",
+   "issn": "0257-4799",
+   "level": "扩展库"
+  },
+  {
+   "name": "草原与草坪",
+   "issn": "1009-5500",
+   "level": "扩展库"
+  },
+  {
+   "name": "测绘地理信息",
+   "issn": "2095-6045",
+   "level": "扩展库"
+  },
+  {
+   "name": "肠外与肠内营养",
+   "issn": "1007-810X",
+   "level": "扩展库"
+  },
+  {
+   "name": "沉积与特提斯地质",
+   "issn": "1009-3850",
+   "level": "扩展库"
+  },
+  {
+   "name": "重庆交通大学学报. 自然科学版",
+   "issn": "1674-0696",
+   "level": "扩展库"
+  },
+  {
+   "name": "重庆医科大学学报",
+   "issn": "0253-3626",
+   "level": "扩展库"
+  },
+  {
+   "name": "重庆邮电大学学报. 自然科学版",
+   "issn": "1673-825X",
+   "level": "扩展库"
+  },
+  {
+   "name": "传感技术学报",
+   "issn": "1004-1699",
+   "level": "扩展库"
+  },
+  {
+   "name": "船舶工程",
+   "issn": "1000-6982",
+   "level": "扩展库"
+  },
+  {
+   "name": "船舶力学",
+   "issn": "1007-7294",
+   "level": "扩展库"
+  },
+  {
+   "name": "大豆科学",
+   "issn": "1000-9841",
+   "level": "扩展库"
+  },
+  {
+   "name": "大连海事大学学报",
+   "issn": "1006-7736",
+   "level": "扩展库"
+  },
+  {
+   "name": "淡水渔业",
+   "issn": "1000-6907",
+   "level": "扩展库"
+  },
+  {
+   "name": "弹箭与制导学报",
+   "issn": "1673-9728",
+   "level": "扩展库"
+  },
+  {
+   "name": "导弹与航天运载技术（中英文）",
+   "issn": "2097-1974",
+   "level": "扩展库"
+  },
+  {
+   "name": "导航定位学报",
+   "issn": "2095-4999",
+   "level": "扩展库"
+  },
+  {
+   "name": "导航定位与授时",
+   "issn": "2095-8110",
+   "level": "扩展库"
+  },
+  {
+   "name": "低温工程",
+   "issn": "1000-6516",
+   "level": "扩展库"
+  },
+  {
+   "name": "地层学杂志",
+   "issn": "0253-4959",
+   "level": "扩展库"
+  },
+  {
+   "name": "地球环境学报",
+   "issn": "1674-9901",
+   "level": "扩展库"
+  },
+  {
+   "name": "地震",
+   "issn": "1000-3274",
+   "level": "扩展库"
+  },
+  {
+   "name": "地震研究",
+   "issn": "1000-0666",
+   "level": "扩展库"
+  },
+  {
+   "name": "地质科技通报",
+   "issn": "2096-8523",
+   "level": "扩展库"
+  },
+  {
+   "name": "地质与勘探",
+   "issn": "0495-5331",
+   "level": "扩展库"
+  },
+  {
+   "name": "电波科学学报",
+   "issn": "1005-0388",
+   "level": "扩展库"
+  },
+  {
+   "name": "电测与仪表",
+   "issn": "1001-1390",
+   "level": "扩展库"
+  },
+  {
+   "name": "电工电能新技术",
+   "issn": "1003-3076",
+   "level": "扩展库"
+  },
+  {
+   "name": "电光与控制",
+   "issn": "1671-637X",
+   "level": "扩展库"
+  },
+  {
+   "name": "电力工程技术",
+   "issn": "2096-3203",
+   "level": "扩展库"
+  },
+  {
+   "name": "电力科学与技术学报",
+   "issn": "1673-9140",
+   "level": "扩展库"
+  },
+  {
+   "name": "电气工程学报",
+   "issn": "2095-9524",
+   "level": "扩展库"
+  },
+  {
+   "name": "电源学报",
+   "issn": "2095-2805",
+   "level": "扩展库"
+  },
+  {
+   "name": "电子显微学报",
+   "issn": "1000-6281",
+   "level": "扩展库"
+  },
+  {
+   "name": "东北林业大学学报",
+   "issn": "1000-5382",
+   "level": "扩展库"
+  },
+  {
+   "name": "动物学杂志",
+   "issn": "0250-3263",
+   "level": "扩展库"
+  },
+  {
+   "name": "锻压技术",
+   "issn": "1000-3940",
+   "level": "扩展库"
+  },
+  {
+   "name": "法医学杂志",
+   "issn": "1004-5619",
+   "level": "扩展库"
+  },
+  {
+   "name": "飞行力学",
+   "issn": "1002-0853",
+   "level": "扩展库"
+  },
+  {
+   "name": "分析试验室",
+   "issn": "1000-0720",
+   "level": "扩展库"
+  },
+  {
+   "name": "分子催化（中英文）",
+   "issn": "1001-3555",
+   "level": "扩展库"
+  },
+  {
+   "name": "粉末冶金技术",
+   "issn": "1001-3784",
+   "level": "扩展库"
+  },
+  {
+   "name": "福建农林大学学报. 自然科学版",
+   "issn": "1671-5470",
+   "level": "扩展库"
+  },
+  {
+   "name": "福建农业学报",
+   "issn": "1008-0384",
+   "level": "扩展库"
+  },
+  {
+   "name": "腐蚀与防护",
+   "issn": "1005-748X",
+   "level": "扩展库"
+  },
+  {
+   "name": "复旦学报. 自然科学版",
+   "issn": "0427-7104",
+   "level": "扩展库"
+  },
+  {
+   "name": "甘肃农业大学学报",
+   "issn": "1003-4315",
+   "level": "扩展库"
+  },
+  {
+   "name": "高速铁路新材料",
+   "issn": "2097-0846",
+   "level": "扩展库"
+  },
+  {
+   "name": "高校地质学报",
+   "issn": "1006-7493",
+   "level": "扩展库"
+  },
+  {
+   "name": "高原科学研究",
+   "issn": "2096-4617",
+   "level": "扩展库"
+  },
+  {
+   "name": "工程爆破",
+   "issn": "1006-7051",
+   "level": "扩展库"
+  },
+  {
+   "name": "工程塑料应用",
+   "issn": "1001-3539",
+   "level": "扩展库"
+  },
+  {
+   "name": "工矿自动化",
+   "issn": "1671-251X",
+   "level": "扩展库"
+  },
+  {
+   "name": "工业工程与管理",
+   "issn": "1007-5429",
+   "level": "扩展库"
+  },
+  {
+   "name": "灌溉排水学报",
+   "issn": "1672-3317",
+   "level": "扩展库"
+  },
+  {
+   "name": "光电子·激光",
+   "issn": "1005-0086",
+   "level": "扩展库"
+  },
+  {
+   "name": "光学技术",
+   "issn": "1002-1582",
+   "level": "扩展库"
+  },
+  {
+   "name": "广东海洋大学学报",
+   "issn": "1673-9159",
+   "level": "扩展库"
+  },
+  {
+   "name": "广西植物",
+   "issn": "1000-3142",
+   "level": "扩展库"
+  },
+  {
+   "name": "规划师",
+   "issn": "1006-0022",
+   "level": "扩展库"
+  },
+  {
+   "name": "国家公园（中英文）",
+   "issn": "2097-3225",
+   "level": "扩展库"
+  },
+  {
+   "name": "海洋测绘",
+   "issn": "1671-3044",
+   "level": "扩展库"
+  },
+  {
+   "name": "海洋学研究",
+   "issn": "1001-909X",
+   "level": "扩展库"
+  },
+  {
+   "name": "海洋预报",
+   "issn": "1003-0239",
+   "level": "扩展库"
+  },
+  {
+   "name": "航空工程进展",
+   "issn": "1674-8190",
+   "level": "扩展库"
+  },
+  {
+   "name": "航天控制",
+   "issn": "1006-3242",
+   "level": "扩展库"
+  },
+  {
+   "name": "河北农业大学学报",
+   "issn": "1000-1573",
+   "level": "扩展库"
+  },
+  {
+   "name": "核聚变与等离子体物理",
+   "issn": "0254-6086",
+   "level": "扩展库"
+  },
+  {
+   "name": "核科学与工程",
+   "issn": "0258-0918",
+   "level": "扩展库"
+  },
+  {
+   "name": "核农学报",
+   "issn": "1000-8551",
+   "level": "扩展库"
+  },
+  {
+   "name": "湖南农业大学学报. 自然科学版",
+   "issn": "1007-1032",
+   "level": "扩展库"
+  },
+  {
+   "name": "护理管理杂志",
+   "issn": "1671-315X",
+   "level": "扩展库"
+  },
+  {
+   "name": "护理学报",
+   "issn": "2097-6569",
+   "level": "扩展库"
+  },
+  {
+   "name": "护理学杂志",
+   "issn": "1001-4152",
+   "level": "扩展库"
+  },
+  {
+   "name": "护士进修杂志",
+   "issn": "1002-6975",
+   "level": "扩展库"
+  },
+  {
+   "name": "华东理工大学学报. 自然科学版",
+   "issn": "1006-3080",
+   "level": "扩展库"
+  },
+  {
+   "name": "华东师范大学学报. 自然科学版",
+   "issn": "1000-5641",
+   "level": "扩展库"
+  },
+  {
+   "name": "华西药学杂志",
+   "issn": "1006-0103",
+   "level": "扩展库"
+  },
+  {
+   "name": "华中科技大学学报. 医学版",
+   "issn": "1672-0741",
+   "level": "扩展库"
+  },
+  {
+   "name": "华中师范大学学报. 自然科学版",
+   "issn": "1000-1190",
+   "level": "扩展库"
+  },
+  {
+   "name": "化工环保",
+   "issn": "1006-1878",
+   "level": "扩展库"
+  },
+  {
+   "name": "化工新型材料",
+   "issn": "1006-3536",
+   "level": "扩展库"
+  },
+  {
+   "name": "化学工业与工程",
+   "issn": "1004-9533",
+   "level": "扩展库"
+  },
+  {
+   "name": "化学通报（中英文）",
+   "issn": "0441-3776",
+   "level": "扩展库"
+  },
+  {
+   "name": "环境工程",
+   "issn": "1000-8942",
+   "level": "扩展库"
+  },
+  {
+   "name": "环境工程学报",
+   "issn": "1673-9108",
+   "level": "扩展库"
+  },
+  {
+   "name": "环境监测管理与技术",
+   "issn": "1006-2009",
+   "level": "扩展库"
+  },
+  {
+   "name": "环境昆虫学报",
+   "issn": "1674-0858",
+   "level": "扩展库"
+  },
+  {
+   "name": "环境污染与防治",
+   "issn": "1001-3865",
+   "level": "扩展库"
+  },
+  {
+   "name": "黄金科学技术",
+   "issn": "1005-2518",
+   "level": "扩展库"
+  },
+  {
+   "name": "火工品",
+   "issn": "1003-1480",
+   "level": "扩展库"
+  },
+  {
+   "name": "火箭推进",
+   "issn": "1672-9374",
+   "level": "扩展库"
+  },
+  {
+   "name": "火力与指挥控制",
+   "issn": "1002-0640",
+   "level": "扩展库"
+  },
+  {
+   "name": "机械强度",
+   "issn": "1001-9669",
+   "level": "扩展库"
+  },
+  {
+   "name": "机械设计",
+   "issn": "1001-2354",
+   "level": "扩展库"
+  },
+  {
+   "name": "机械设计与研究",
+   "issn": "1006-2343",
+   "level": "扩展库"
+  },
+  {
+   "name": "基因组学与应用生物学",
+   "issn": "1674-568X",
+   "level": "扩展库"
+  },
+  {
+   "name": "激光技术",
+   "issn": "1001-3806",
+   "level": "扩展库"
+  },
+  {
+   "name": "激光与红外",
+   "issn": "1001-5078",
+   "level": "扩展库"
+  },
+  {
+   "name": "吉林大学学报. 医学版",
+   "issn": "1671-587X",
+   "level": "扩展库"
+  },
+  {
+   "name": "吉林农业大学学报",
+   "issn": "1000-5684",
+   "level": "扩展库"
+  },
+  {
+   "name": "集成电路与嵌入式系统",
+   "issn": "2097-4191",
+   "level": "扩展库"
+  },
+  {
+   "name": "计量学报",
+   "issn": "1000-1158",
+   "level": "扩展库"
+  },
+  {
+   "name": "计算机工程与科学",
+   "issn": "1007-130X",
+   "level": "扩展库"
+  },
+  {
+   "name": "计算机工程与应用",
+   "issn": "1002-8331",
+   "level": "扩展库"
+  },
+  {
+   "name": "计算机科学与探索",
+   "issn": "1673-9418",
+   "level": "扩展库"
+  },
+  {
+   "name": "计算机应用",
+   "issn": "1001-9081",
+   "level": "扩展库"
+  },
+  {
+   "name": "计算机应用研究",
+   "issn": "1001-3695",
+   "level": "扩展库"
+  },
+  {
+   "name": "计算物理",
+   "issn": "1001-246X",
+   "level": "扩展库"
+  },
+  {
+   "name": "建筑钢结构进展",
+   "issn": "1671-9379",
+   "level": "扩展库"
+  },
+  {
+   "name": "健康发展与政策研究",
+   "issn": "2097-4205",
+   "level": "扩展库"
+  },
+  {
+   "name": "交通信息与安全",
+   "issn": "1674-4861",
+   "level": "扩展库"
+  },
+  {
+   "name": "介入放射学杂志",
+   "issn": "1008-794X",
+   "level": "扩展库"
+  },
+  {
+   "name": "金属热处理",
+   "issn": "0254-6051",
+   "level": "扩展库"
+  },
+  {
+   "name": "景观设计学（中英文）",
+   "issn": "2096-336X",
+   "level": "扩展库"
+  },
+  {
+   "name": "科学观察",
+   "issn": "1673-5668",
+   "level": "扩展库"
+  },
+  {
+   "name": "空间科学与试验学报",
+   "issn": "2097-4302",
+   "level": "扩展库"
+  },
+  {
+   "name": "空军工程大学学报",
+   "issn": "2097-1915",
+   "level": "扩展库"
+  },
+  {
+   "name": "空天预警研究学报",
+   "issn": "2097-180X",
+   "level": "扩展库"
+  },
+  {
+   "name": "控制工程",
+   "issn": "1671-7848",
+   "level": "扩展库"
+  },
+  {
+   "name": "口腔医学研究",
+   "issn": "1671-7651",
+   "level": "扩展库"
+  },
+  {
+   "name": "矿产保护与利用",
+   "issn": "1001-0076",
+   "level": "扩展库"
+  },
+  {
+   "name": "理化检验. B, 化学分册",
+   "issn": "1001-4020",
+   "level": "扩展库"
+  },
+  {
+   "name": "力学季刊",
+   "issn": "0254-0053",
+   "level": "扩展库"
+  },
+  {
+   "name": "炼钢",
+   "issn": "1002-1043",
+   "level": "扩展库"
+  },
+  {
+   "name": "粮油食品科技",
+   "issn": "1007-7561",
+   "level": "扩展库"
+  },
+  {
+   "name": "量子电子学报",
+   "issn": "1007-5461",
+   "level": "扩展库"
+  },
+  {
+   "name": "林草资源研究",
+   "issn": "2097-3438",
+   "level": "扩展库"
+  },
+  {
+   "name": "临床超声医学杂志",
+   "issn": "1008-6978",
+   "level": "扩展库"
+  },
+  {
+   "name": "临床麻醉学杂志",
+   "issn": "1004-5805",
+   "level": "扩展库"
+  },
+  {
+   "name": "临床皮肤科杂志",
+   "issn": "1000-4963",
+   "level": "扩展库"
+  },
+  {
+   "name": "临床小儿外科杂志",
+   "issn": "1671-6353",
+   "level": "扩展库"
+  },
+  {
+   "name": "流体机械",
+   "issn": "1005-0329",
+   "level": "扩展库"
+  },
+  {
+   "name": "陆地生态系统与保护学报",
+   "issn": "2096-8884",
+   "level": "扩展库"
+  },
+  {
+   "name": "木材科学与技术",
+   "issn": "2096-9694",
+   "level": "扩展库"
+  },
+  {
+   "name": "南方建筑",
+   "issn": "1000-0232",
+   "level": "扩展库"
+  },
+  {
+   "name": "南方农业学报",
+   "issn": "2095-1191",
+   "level": "扩展库"
+  },
+  {
+   "name": "南京理工大学学报. 自然科学版",
+   "issn": "1005-9830",
+   "level": "扩展库"
+  },
+  {
+   "name": "南开大学学报. 自然科学版",
+   "issn": "0465-7942",
+   "level": "扩展库"
+  },
+  {
+   "name": "内燃机工程",
+   "issn": "1000-0925",
+   "level": "扩展库"
+  },
+  {
+   "name": "农药",
+   "issn": "1006-0413",
+   "level": "扩展库"
+  },
+  {
+   "name": "气动研究与试验",
+   "issn": "2097-258X",
+   "level": "扩展库"
+  },
+  {
+   "name": "汽车技术",
+   "issn": "1000-3703",
+   "level": "扩展库"
+  },
+  {
+   "name": "强度与环境",
+   "issn": "1006-3919",
+   "level": "扩展库"
+  },
+  {
+   "name": "情报学报",
+   "issn": "1000-0135",
+   "level": "扩展库"
+  },
+  {
+   "name": "全球变化数据学报（中英文）",
+   "issn": "2096-3645",
+   "level": "扩展库"
+  },
+  {
+   "name": "全球定位系统",
+   "issn": "1008-9268",
+   "level": "扩展库"
+  },
+  {
+   "name": "热带气象学报",
+   "issn": "1004-4965",
+   "level": "扩展库"
+  },
+  {
+   "name": "热带亚热带植物学报",
+   "issn": "1005-3395",
+   "level": "扩展库"
+  },
+  {
+   "name": "热带作物学报",
+   "issn": "1000-2561",
+   "level": "扩展库"
+  },
+  {
+   "name": "热固性树脂",
+   "issn": "1002-7432",
+   "level": "扩展库"
+  },
+  {
+   "name": "热能动力工程",
+   "issn": "1001-2060",
+   "level": "扩展库"
+  },
+  {
+   "name": "润滑与密封",
+   "issn": "0254-0150",
+   "level": "扩展库"
+  },
+  {
+   "name": "厦门大学学报. 自然科学版",
+   "issn": "0438-0479",
+   "level": "扩展库"
+  },
+  {
+   "name": "山东大学学报. 理学版",
+   "issn": "1671-9352",
+   "level": "扩展库"
+  },
+  {
+   "name": "陕西师范大学学报. 自然科学版",
+   "issn": "1672-4291",
+   "level": "扩展库"
+  },
+  {
+   "name": "上海大学学报. 自然科学版",
+   "issn": "1007-2861",
+   "level": "扩展库"
+  },
+  {
+   "name": "上海口腔医学",
+   "issn": "1006-7248",
+   "level": "扩展库"
+  },
+  {
+   "name": "上海针灸杂志",
+   "issn": "1005-0957",
+   "level": "扩展库"
+  },
+  {
+   "name": "上海中医药大学学报",
+   "issn": "1008-861X",
+   "level": "扩展库"
+  },
+  {
+   "name": "上海中医药杂志",
+   "issn": "1007-1334",
+   "level": "扩展库"
+  },
+  {
+   "name": "深圳大学学报. 理工版",
+   "issn": "1000-2618",
+   "level": "扩展库"
+  },
+  {
+   "name": "神经解剖学杂志",
+   "issn": "1000-7547",
+   "level": "扩展库"
+  },
+  {
+   "name": "沈阳农业大学学报",
+   "issn": "1000-1700",
+   "level": "扩展库"
+  },
+  {
+   "name": "沈阳药科大学学报",
+   "issn": "1006-2858",
+   "level": "扩展库"
+  },
+  {
+   "name": "肾脏病与透析肾移植杂志",
+   "issn": "1006-298X",
+   "level": "扩展库"
+  },
+  {
+   "name": "生态毒理学报",
+   "issn": "1673-5897",
+   "level": "扩展库"
+  },
+  {
+   "name": "生物安全学报（中英文）",
+   "issn": "2095-1787",
+   "level": "扩展库"
+  },
+  {
+   "name": "生物化学与生物物理进展",
+   "issn": "1000-3282",
+   "level": "扩展库"
+  },
+  {
+   "name": "生物学杂志",
+   "issn": "2095-1736",
+   "level": "扩展库"
+  },
+  {
+   "name": "声学技术",
+   "issn": "1000-3630",
+   "level": "扩展库"
+  },
+  {
+   "name": "石油炼制与化工",
+   "issn": "1005-2399",
+   "level": "扩展库"
+  },
+  {
+   "name": "石油学报. 石油加工",
+   "issn": "1001-8719",
+   "level": "扩展库"
+  },
+  {
+   "name": "石油与天然气化工",
+   "issn": "1007-3426",
+   "level": "扩展库"
+  },
+  {
+   "name": "石油钻探技术",
+   "issn": "1001-0890",
+   "level": "扩展库"
+  },
+  {
+   "name": "时珍国医国药",
+   "issn": "1008-0805",
+   "level": "扩展库"
+  },
+  {
+   "name": "实用妇产科杂志",
+   "issn": "1003-6946",
+   "level": "扩展库"
+  },
+  {
+   "name": "实用口腔医学杂志",
+   "issn": "1001-3733",
+   "level": "扩展库"
+  },
+  {
+   "name": "食品与机械",
+   "issn": "1003-5788",
+   "level": "扩展库"
+  },
+  {
+   "name": "食品与生物技术学报",
+   "issn": "1673-1689",
+   "level": "扩展库"
+  },
+  {
+   "name": "食用菌学报",
+   "issn": "1005-9873",
+   "level": "扩展库"
+  },
+  {
+   "name": "世界科技研究与发展",
+   "issn": "1006-6055",
+   "level": "扩展库"
+  },
+  {
+   "name": "世界科学技术：中医药现代化",
+   "issn": "1674-3849",
+   "level": "扩展库"
+  },
+  {
+   "name": "兽类学报",
+   "issn": "1000-1050",
+   "level": "扩展库"
+  },
+  {
+   "name": "数据采集与处理",
+   "issn": "1004-9037",
+   "level": "扩展库"
+  },
+  {
+   "name": "数据与计算发展前沿（中英文）",
+   "issn": "2096-742X",
+   "level": "扩展库"
+  },
+  {
+   "name": "数学进展",
+   "issn": "1000-0917",
+   "level": "扩展库"
+  },
+  {
+   "name": "数学年刊. A 辑",
+   "issn": "1000-8314",
+   "level": "扩展库"
+  },
+  {
+   "name": "水产科学",
+   "issn": "1003-1111",
+   "level": "扩展库"
+  },
+  {
+   "name": "水处理技术",
+   "issn": "1000-3770",
+   "level": "扩展库"
+  },
+  {
+   "name": "水动力学研究与进展. A 辑",
+   "issn": "1000-4874",
+   "level": "扩展库"
+  },
+  {
+   "name": "水利水电技术（中英文）",
+   "issn": "1000-0860",
+   "level": "扩展库"
+  },
+  {
+   "name": "水利水运工程学报",
+   "issn": "1009-640X",
+   "level": "扩展库"
+  },
+  {
+   "name": "水土保持通报",
+   "issn": "1000-288X",
+   "level": "扩展库"
+  },
+  {
+   "name": "水文",
+   "issn": "1000-0852",
+   "level": "扩展库"
+  },
+  {
+   "name": "四川大学学报. 自然科学版",
+   "issn": "0490-6756",
+   "level": "扩展库"
+  },
+  {
+   "name": "四川农业大学学报",
+   "issn": "1000-2650",
+   "level": "扩展库"
+  },
+  {
+   "name": "塑料",
+   "issn": "1001-9456",
+   "level": "扩展库"
+  },
+  {
+   "name": "太阳能学报",
+   "issn": "0254-0096",
+   "level": "扩展库"
+  },
+  {
+   "name": "探测与控制学报",
+   "issn": "1008-1194",
+   "level": "扩展库"
+  },
+  {
+   "name": "微波学报",
+   "issn": "1005-6122",
+   "level": "扩展库"
+  },
+  {
+   "name": "微生物学杂志",
+   "issn": "1005-7021",
+   "level": "扩展库"
+  },
+  {
+   "name": "无机化学学报",
+   "issn": "1001-4861",
+   "level": "扩展库"
+  },
+  {
+   "name": "无机盐工业",
+   "issn": "1006-4990",
+   "level": "扩展库"
+  },
+  {
+   "name": "无人系统技术",
+   "issn": "2096-5915",
+   "level": "扩展库"
+  },
+  {
+   "name": "西北地质",
+   "issn": "1009-6248",
+   "level": "扩展库"
+  },
+  {
+   "name": "西部人居环境学刊",
+   "issn": "2095-6304",
+   "level": "扩展库"
+  },
+  {
+   "name": "西南大学学报. 自然科学版",
+   "issn": "1673-9868",
+   "level": "扩展库"
+  },
+  {
+   "name": "西南农业学报",
+   "issn": "1001-4829",
+   "level": "扩展库"
+  },
+  {
+   "name": "西南石油大学学报. 自然科学版",
+   "issn": "1674-5086",
+   "level": "扩展库"
+  },
+  {
+   "name": "稀土",
+   "issn": "1004-0277",
+   "level": "扩展库"
+  },
+  {
+   "name": "稀有金属与硬质合金",
+   "issn": "1004-0536",
+   "level": "扩展库"
+  },
+  {
+   "name": "系统工程",
+   "issn": "1001-4098",
+   "level": "扩展库"
+  },
+  {
+   "name": "细胞与分子免疫学杂志",
+   "issn": "1007-8738",
+   "level": "扩展库"
+  },
+  {
+   "name": "现代电力",
+   "issn": "1007-2322",
+   "level": "扩展库"
+  },
+  {
+   "name": "现代化工",
+   "issn": "0253-4320",
+   "level": "扩展库"
+  },
+  {
+   "name": "现代雷达",
+   "issn": "1004-7859",
+   "level": "扩展库"
+  },
+  {
+   "name": "小型微型计算机系统",
+   "issn": "1000-1220",
+   "level": "扩展库"
+  },
+  {
+   "name": "心理科学",
+   "issn": "1671-6981",
+   "level": "扩展库"
+  },
+  {
+   "name": "新发传染病电子杂志",
+   "issn": "2096-2738",
+   "level": "扩展库"
+  },
+  {
+   "name": "新疆地质",
+   "issn": "1000-8845",
+   "level": "扩展库"
+  },
+  {
+   "name": "新疆农业科学",
+   "issn": "1001-4330",
+   "level": "扩展库"
+  },
+  {
+   "name": "信息安全研究",
+   "issn": "2096-1057",
+   "level": "扩展库"
+  },
+  {
+   "name": "信息对抗技术",
+   "issn": "2097-163X",
+   "level": "扩展库"
+  },
+  {
+   "name": "信息网络安全",
+   "issn": "1671-1122",
+   "level": "扩展库"
+  },
+  {
+   "name": "眼科新进展",
+   "issn": "1003-5141",
+   "level": "扩展库"
+  },
+  {
+   "name": "药物不良反应杂志",
+   "issn": "1008-5734",
+   "level": "扩展库"
+  },
+  {
+   "name": "液晶与显示",
+   "issn": "1007-2780",
+   "level": "扩展库"
+  },
+  {
+   "name": "仪表技术与传感器",
+   "issn": "1002-1841",
+   "level": "扩展库"
+  },
+  {
+   "name": "应用概率统计",
+   "issn": "1001-4268",
+   "level": "扩展库"
+  },
+  {
+   "name": "应用海洋学学报",
+   "issn": "2095-4972",
+   "level": "扩展库"
+  },
+  {
+   "name": "应用激光",
+   "issn": "1000-372X",
+   "level": "扩展库"
+  },
+  {
+   "name": "应用科学学报",
+   "issn": "0255-8297",
+   "level": "扩展库"
+  },
+  {
+   "name": "应用力学学报",
+   "issn": "1000-4939",
+   "level": "扩展库"
+  },
+  {
+   "name": "应用声学",
+   "issn": "1000-310X",
+   "level": "扩展库"
+  },
+  {
+   "name": "应用数学和力学",
+   "issn": "1000-0887",
+   "level": "扩展库"
+  },
+  {
+   "name": "油田化学",
+   "issn": "1000-4092",
+   "level": "扩展库"
+  },
+  {
+   "name": "铀矿地质",
+   "issn": "1000-0658",
+   "level": "扩展库"
+  },
+  {
+   "name": "有机化学",
+   "issn": "0253-2786",
+   "level": "扩展库"
+  },
+  {
+   "name": "有色金属科学与工程",
+   "issn": "1674-9669",
+   "level": "扩展库"
+  },
+  {
+   "name": "渔业现代化",
+   "issn": "1007-9580",
+   "level": "扩展库"
+  },
+  {
+   "name": "宇航计测技术",
+   "issn": "1000-7202",
+   "level": "扩展库"
+  },
+  {
+   "name": "宇航总体技术",
+   "issn": "2096-4080",
+   "level": "扩展库"
+  },
+  {
+   "name": "原子核物理评论",
+   "issn": "1007-4627",
+   "level": "扩展库"
+  },
+  {
+   "name": "云南大学学报. 自然科学版",
+   "issn": "0258-7971",
+   "level": "扩展库"
+  },
+  {
+   "name": "云南农业大学学报",
+   "issn": "1004-390X",
+   "level": "扩展库"
+  },
+  {
+   "name": "运筹与管理",
+   "issn": "1007-3221",
+   "level": "扩展库"
+  },
+  {
+   "name": "杂交水稻",
+   "issn": "1005-3956",
+   "level": "扩展库"
+  },
+  {
+   "name": "浙江农业学报",
+   "issn": "1004-1524",
+   "level": "扩展库"
+  },
+  {
+   "name": "真空科学与技术学报",
+   "issn": "1672-7126",
+   "level": "扩展库"
+  },
+  {
+   "name": "震灾防御技术",
+   "issn": "1673-5722",
+   "level": "扩展库"
+  },
+  {
+   "name": "智慧电力",
+   "issn": "2096-4145",
+   "level": "扩展库"
+  },
+  {
+   "name": "智能化农业装备学报（中英文）",
+   "issn": "2096-7217",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国安全生产科学技术",
+   "issn": "1673-193X",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国病毒病杂志",
+   "issn": "2095-0136",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国超声医学杂志",
+   "issn": "1002-0101",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国畜牧杂志",
+   "issn": "0258-7033",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国儿童保健杂志",
+   "issn": "1008-6579",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国耳鼻咽喉颅底外科杂志",
+   "issn": "1007-1520",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国耳鼻咽喉头颈外科",
+   "issn": "1672-7002",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国法医学杂志",
+   "issn": "1001-5728",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国粉体技术",
+   "issn": "1008-5548",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国妇产科临床杂志",
+   "issn": "1672-1861",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国骨伤",
+   "issn": "1003-0034",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国海洋药物",
+   "issn": "1002-3461",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国航海",
+   "issn": "1000-4653",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国矫形外科杂志",
+   "issn": "1005-8478",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国介入心脏病学杂志",
+   "issn": "1004-8812",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国科技史杂志",
+   "issn": "1673-1441",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国科学技术大学学报",
+   "issn": "0253-2778",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国临床解剖学杂志",
+   "issn": "1001-165X",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国临床药理学杂志",
+   "issn": "1001-6821",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国临床医学影像杂志",
+   "issn": "1008-1062",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国媒介生物学及控制杂志",
+   "issn": "1003-8280",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国男科学杂志",
+   "issn": "1008-0848",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国农业科技导报（中英文）",
+   "issn": "1008-0864",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国皮肤性病学杂志",
+   "issn": "1001-7089",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国神经精神疾病杂志",
+   "issn": "1002-0152",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国生态旅游",
+   "issn": "2095-199X",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国生物工程杂志",
+   "issn": "1671-8135",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国生物化学与分子生物学报",
+   "issn": "1007-7626",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国生物制品学杂志",
+   "issn": "1004-5503",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国石油大学学报. 自然科学版",
+   "issn": "1673-5005",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国实验动物学报",
+   "issn": "1005-4847",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国实验血液学杂志",
+   "issn": "1009-2137",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国实用口腔科杂志",
+   "issn": "1674-1595",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国兽医科学",
+   "issn": "1673-4696",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国兽医学报",
+   "issn": "1005-4545",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国陶瓷",
+   "issn": "1001-9642",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国微创外科杂志",
+   "issn": "1009-6604",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国微生态学杂志",
+   "issn": "1005-376X",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国细胞生物学学报",
+   "issn": "1674-7666",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国现代中药",
+   "issn": "1673-4890",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国心血管杂志",
+   "issn": "1007-5410",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国新药与临床杂志",
+   "issn": "1007-7669",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国胸心血管外科临床杂志",
+   "issn": "1007-4848",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国学校卫生",
+   "issn": "1000-9817",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国血液净化",
+   "issn": "1671-4091",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国烟草科学",
+   "issn": "1007-5119",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国烟草学报",
+   "issn": "1004-5708",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国岩溶",
+   "issn": "1001-4810",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国药理学与毒理学杂志",
+   "issn": "1000-3002",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国药物依赖性杂志",
+   "issn": "1007-9718",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国冶金",
+   "issn": "1006-9356",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国野生植物资源",
+   "issn": "1006-9690",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国医学计算机成像杂志",
+   "issn": "1006-5741",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国医学前沿杂志. 电子版",
+   "issn": "1674-7372",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国医学物理学杂志",
+   "issn": "1005-202X",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国医药工业杂志",
+   "issn": "1001-8255",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国预防兽医学报",
+   "issn": "1008-0589",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国预防医学杂志",
+   "issn": "1009-6639",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国园林",
+   "issn": "1000-6664",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国造纸学报",
+   "issn": "1000-6842",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国中西医结合急救杂志",
+   "issn": "1008-9691",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国中医基础医学杂志",
+   "issn": "1006-3250",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国中医药信息杂志",
+   "issn": "1005-5304",
+   "level": "扩展库"
+  },
+  {
+   "name": "中国肿瘤生物治疗杂志",
+   "issn": "1007-385X",
+   "level": "扩展库"
+  },
+  {
+   "name": "中华高血压杂志（中英文）",
+   "issn": "1673-7245",
+   "level": "扩展库"
+  },
+  {
+   "name": "中华关节外科杂志（电子版）",
+   "issn": "1674-134X",
+   "level": "扩展库"
+  },
+  {
+   "name": "中华行为医学与脑科学杂志",
+   "issn": "1674-6554",
+   "level": "扩展库"
+  },
+  {
+   "name": "中华航海医学与高气压医学杂志",
+   "issn": "1009-6906",
+   "level": "扩展库"
+  },
+  {
+   "name": "中华核医学与分子影像杂志",
+   "issn": "2095-2848",
+   "level": "扩展库"
+  },
+  {
+   "name": "中华护理教育",
+   "issn": "1672-9234",
+   "level": "扩展库"
+  },
+  {
+   "name": "中华急危重症护理杂志",
+   "issn": "2096-7446",
+   "level": "扩展库"
+  },
+  {
+   "name": "中华劳动卫生职业病杂志",
+   "issn": "1001-9391",
+   "level": "扩展库"
+  },
+  {
+   "name": "中华麻醉学杂志",
+   "issn": "0254-1416",
+   "level": "扩展库"
+  },
+  {
+   "name": "中华普通外科杂志",
+   "issn": "1007-631X",
+   "level": "扩展库"
+  },
+  {
+   "name": "中华全科医师杂志",
+   "issn": "1671-7368",
+   "level": "扩展库"
+  },
+  {
+   "name": "中华乳腺病杂志（电子版）",
+   "issn": "1674-0807",
+   "level": "扩展库"
+  },
+  {
+   "name": "中华生殖与避孕杂志",
+   "issn": "2096-2916",
+   "level": "扩展库"
+  },
+  {
+   "name": "中华实验和临床病毒学杂志",
+   "issn": "1003-9279",
+   "level": "扩展库"
+  },
+  {
+   "name": "中华疼痛学杂志",
+   "issn": "2096-8019",
+   "level": "扩展库"
+  },
+  {
+   "name": "中华消化内镜杂志",
+   "issn": "1007-5232",
+   "level": "扩展库"
+  },
+  {
+   "name": "中华新生儿科杂志（中英文）",
+   "issn": "2096-2932",
+   "level": "扩展库"
+  },
+  {
+   "name": "中华眼底病杂志",
+   "issn": "1005-1015",
+   "level": "扩展库"
+  },
+  {
+   "name": "中华眼视光学与视觉科学杂志（中英文）",
+   "issn": "1674-845X",
+   "level": "扩展库"
+  },
+  {
+   "name": "中华医学遗传学杂志",
+   "issn": "1003-9406",
+   "level": "扩展库"
+  },
+  {
+   "name": "中华医院感染学杂志",
+   "issn": "1005-4529",
+   "level": "扩展库"
+  },
+  {
+   "name": "中华医院管理杂志",
+   "issn": "1000-6672",
+   "level": "扩展库"
+  },
+  {
+   "name": "中华中医药学刊",
+   "issn": "1673-7717",
+   "level": "扩展库"
+  },
+  {
+   "name": "中华重症医学电子杂志",
+   "issn": "2096-1537",
+   "level": "扩展库"
+  },
+  {
+   "name": "自然保护地",
+   "issn": "2096-8981",
+   "level": "扩展库"
+  },
+  {
+   "name": "自然科学史研究",
+   "issn": "1000-0224",
+   "level": "扩展库"
+  }
+ ]
+}

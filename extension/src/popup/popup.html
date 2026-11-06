@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>期刊等级助手</title>
+  <link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+  <header class="head">
+    <div class="logo">刊</div>
+    <div class="titles">
+      <h1>期刊等级助手</h1>
+      <p class="sub">SCI · 北大核心 · 中科院分区 · 影响因子</p>
+    </div>
+    <label class="switch" title="总开关">
+      <input id="enabled" type="checkbox" />
+      <span class="slider"></span>
+    </label>
+  </header>
+
+  <section class="block status-block">
+    <div class="block-title">当前页面</div>
+    <div id="status" class="status status-wait">检测中…</div>
+    <button id="exportBtn" class="export-btn" hidden>导出本页论文（CSV）</button>
+  </section>
+
+  <section class="block">
+    <div class="block-title">显示内容</div>
+    <div class="chips" id="chips"></div>
+    <label class="row compact-row">
+      <input id="compact" type="checkbox" />
+      <span>紧凑模式（更小的徽章）</span>
+    </label>
+  </section>
+
+  <section class="block">
+    <div class="block-title">快速查询</div>
+    <div class="search">
+      <input id="q" type="text" placeholder="输入期刊名，如 Nature / 管理世界" autocomplete="off" />
+      <button id="go">查询</button>
+    </div>
+    <div class="result" id="result"></div>
+  </section>
+
+  <footer class="foot">
+    <span class="stats" id="stats">数据加载中…</span>
+    <a href="#" id="openOptions">完整设置</a>
+  </footer>
+
+  <script src="popup.js"></script>
+</body>
+</html>

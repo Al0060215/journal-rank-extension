@@ -1,0 +1,130 @@
+{
+  "manifest_version": 3,
+  "name": "期刊等级助手 JournalRank",
+  "version": "0.2.0",
+  "description": "在知网、谷歌学术、Web of Science、PubMed 等页面自动标注 SCI/EI/北大核心/CSSCI/中科院分区/影响因子。数据全部本地内置，不联网、不收费。",
+  "permissions": [
+    "storage",
+    "contextMenus",
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_title": "期刊等级助手",
+    "default_popup": "src/popup/popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "options_ui": {
+    "page": "src/options/options.html",
+    "open_in_tab": true
+  },
+  "background": {
+    "service_worker": "src/background/service-worker.js",
+    "type": "module"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://vpn.sjtu.edu.cn/*",
+        "*://*.vpn.sjtu.edu.cn/*",
+        "https://*.wanfangdata.com.cn/*",
+        "https://*.cqvip.com/*",
+        "https://*.cnki.net/*",
+        "https://*.cnki.com.cn/*",
+        "https://scholar.google.com/*",
+        "https://scholar.google.com.hk/*",
+        "https://scholar.google.de/*",
+        "https://scholar.google.fr/*",
+        "https://scholar.google.co.jp/*",
+        "https://scholar.google.com.br/*",
+        "https://scholar.google.co.uk/*",
+        "https://scholar.google.ca/*",
+        "https://scholar.google.com.au/*",
+        "https://scholar.google.it/*",
+        "https://scholar.google.es/*",
+        "https://scholar.google.nl/*",
+        "https://scholar.google.ch/*",
+        "https://scholar.google.at/*",
+        "https://scholar.google.se/*",
+        "https://scholar.google.dk/*",
+        "https://scholar.google.fi/*",
+        "https://scholar.google.no/*",
+        "https://scholar.google.pl/*",
+        "https://scholar.google.ru/*",
+        "https://scholar.google.com.tw/*",
+        "https://scholar.google.com.sg/*",
+        "https://scholar.google.co.kr/*",
+        "https://scholar.google.co.in/*",
+        "https://scholar.google.com.mx/*",
+        "https://scholar.google.cl/*",
+        "https://scholar.google.com.ar/*",
+        "https://scholar.google.com.tr/*",
+        "https://scholar.google.gr/*",
+        "https://scholar.google.pt/*",
+        "https://scholar.google.cz/*",
+        "https://scholar.google.hu/*",
+        "https://scholar.google.ro/*",
+        "https://scholar.google.bg/*",
+        "https://scholar.google.hr/*",
+        "https://scholar.google.sk/*",
+        "https://scholar.google.si/*",
+        "https://scholar.google.ee/*",
+        "https://scholar.google.lv/*",
+        "https://scholar.google.lt/*",
+        "https://scholar.google.ie/*",
+        "https://scholar.google.be/*",
+        "https://scholar.google.cat/*",
+        "https://scholar.google.is/*",
+        "https://scholar.google.com.ua/*",
+        "https://scholar.google.com.vn/*",
+        "https://scholar.google.com.my/*",
+        "https://scholar.google.com.ph/*",
+        "https://scholar.google.co.id/*",
+        "https://scholar.google.co.th/*",
+        "https://scholar.google.com.pk/*",
+        "https://scholar.google.com.sa/*",
+        "https://scholar.google.com.eg/*",
+        "https://scholar.google.co.za/*",
+        "https://scholar.google.com.ng/*",
+        "https://xueshu.baidu.com/*",
+        "https://pubmed.ncbi.nlm.nih.gov/*",
+        "https://www.webofscience.com/*",
+        "https://www.webofknowledge.com/*",
+        "https://link.springer.com/*",
+        "https://ieeexplore.ieee.org/*",
+        "https://dl.acm.org/*",
+        "https://www.sciencedirect.com/*",
+        "https://onlinelibrary.wiley.com/*",
+        "https://www.tandfonline.com/*",
+        "https://journals.sagepub.com/*",
+        "https://www.nature.com/*",
+        "https://www.mdpi.com/*",
+        "https://pubs.acs.org/*",
+        "https://www.cell.com/*",
+        "https://academic.oup.com/*",
+        "https://www.jstor.org/*",
+        "https://dblp.org/*",
+        "https://dblp.uni-trier.de/*"
+      ],
+      "js": [
+        "src/content/content.js"
+      ],
+      "css": [
+        "src/content/content.css"
+      ],
+      "run_at": "document_idle",
+      "all_frames": true
+    }
+  ],
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}

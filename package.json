@@ -1,0 +1,15 @@
+{
+  "name": "journal-rank-extension",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "description": "在学术网站论文列表旁显示期刊等级（SCI / 北大核心 / 中科院分区 / 影响因子）的 Chrome 扩展",
+  "scripts": {
+    "build": "node tools/build-data.mjs && node tools/make-icons.mjs",
+    "build:data": "node tools/build-data.mjs",
+    "build:icons": "node tools/make-icons.mjs",
+    "test": "node tools/check-match.mjs && node tools/test-e2e.mjs",
+    "test:match": "node tools/check-match.mjs",
+    "test:e2e": "node tools/test-e2e.mjs"
+  }
+}

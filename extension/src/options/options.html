@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>期刊等级助手 · 设置</title>
+  <link rel="stylesheet" href="options.css" />
+</head>
+<body>
+  <div class="page">
+    <header class="hero">
+      <div class="logo">刊</div>
+      <div>
+        <h1>期刊等级助手</h1>
+        <p>在论文列表旁边直接显示 SCI / 北大核心 / 中科院分区 / 影响因子。数据全部内置在本地，不联网、不收费、不上传任何内容。</p>
+      </div>
+    </header>
+
+    <section class="card">
+      <h2>通用</h2>
+      <label class="line">
+        <span class="line-label">启用标注</span>
+        <span class="line-desc">关闭后不在任何页面注入徽章（右键查询仍可用）</span>
+        <label class="switch"><input id="enabled" type="checkbox" /><span class="slider"></span></label>
+      </label>
+      <label class="line">
+        <span class="line-label">紧凑模式</span>
+        <span class="line-desc">更小的字号和内边距，适合密集的列表页</span>
+        <label class="switch"><input id="compact" type="checkbox" /><span class="slider"></span></label>
+      </label>
+      <label class="line">
+        <span class="line-label">调试日志</span>
+        <span class="line-desc">在控制台输出识别到的期刊名，排查某个网站不显示时用</span>
+        <label class="switch"><input id="debug" type="checkbox" /><span class="slider"></span></label>
+      </label>
+    </section>
+
+    <section class="card">
+      <h2>显示内容</h2>
+      <div class="chips" id="chips"></div>
+    </section>
+
+    <section class="card">
+      <h2>生效网站</h2>
+      <p class="hint">关闭后该站点不再自动标注，其余站点不受影响。</p>
+      <div class="sites" id="sites"></div>
+    </section>
+
+    <section class="card">
+      <h2>查询测试</h2>
+      <p class="hint">输入期刊名，验证本地库能不能匹配上。</p>
+      <div class="search">
+        <input id="q" type="text" placeholder="例如：Nature / 中国社会科学 / 管理世界 / Nature Communications" autocomplete="off" />
+        <button id="go">查询</button>
+      </div>
+      <div class="result" id="result"></div>
+    </section>
+
+    <section class="card">
+      <h2>数据</h2>
+      <div class="stats" id="stats">加载中…</div>
+      <p class="hint" style="margin-top:10px">
+        数据来源：中科院文献情报中心《期刊分区表》2025 升级版、Clarivate JCR 2025、CCF 推荐目录 2026、
+        国际期刊预警名单、Ei Compendex 收录目录、NLM 期刊缩写表，以及 CSCD 2025-2026（官方 PDF）、
+        中国科技核心期刊目录 2024、北大核心 2023、CSSCI 2025-2026、AMI 2022、国家社科基金 2025、
+        RCCSE 与高质量科技期刊目录。
+      </p>
+      <p class="hint">
+        中文标签覆盖：科技核心 2,627、北大核心 1,975、CSCD 1,123（另扩展 384）、CSSCI 671。
+        可在 <code>tools/build-data.mjs</code> 里替换数据源后重新生成。
+      </p>
+    </section>
+
+    <footer class="foot">
+      <span>右键选中任意期刊名 → “查询期刊等级”，可在任何网站手动查询。</span>
+      <span id="version"></span>
+    </footer>
+  </div>
+
+  <script src="options.js"></script>
+</body>
+</html>

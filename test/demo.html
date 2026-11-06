@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <title>期刊等级助手 · 站点模拟页</title>
+  <style>
+    body { font-family: -apple-system, "PingFang SC", sans-serif; margin: 24px; max-width: 900px; }
+    h2 { font-size: 15px; margin: 28px 0 10px; color: #334155; }
+    table { border-collapse: collapse; width: 100%; }
+    td { border-bottom: 1px solid #eef1f5; padding: 8px 10px; font-size: 14px; vertical-align: top; }
+    td.source { width: 220px; color: #2563eb; }
+    .gs_ri { padding: 10px 0; border-bottom: 1px solid #eef1f5; }
+    .gs_a { font-size: 13px; color: #15803d; margin-top: 4px; }
+    #results-list li { padding: 10px 0; border-bottom: 1px solid #eef1f5; list-style: none; }
+    .enumeration a { color: #166534; text-decoration: none; font-size: 14px; }
+  </style>
+</head>
+<body>
+  <h1>模拟页：用于验证插件注入效果</h1>
+
+  <h2>① 知网检索结果结构（td.source &gt; a）</h2>
+  <table class="result-table-list">
+    <tbody>
+      <tr><td class="name">数字经济与高质量发展</td><td class="source"><a href="#">中国社会科学</a></td></tr>
+      <tr><td class="name">企业创新治理</td><td class="source"><a href="#">管理世界</a></td></tr>
+      <tr><td class="name">超导材料研究进展</td><td class="source"><a href="#">物理学报</a></td></tr>
+      <tr><td class="name">一个不在库里的刊物</td><td class="source"><a href="#">某某不存在学报</a></td></tr>
+    </tbody>
+  </table>
+
+  <h2>② Google Scholar 结构（.gs_ri + .gs_a）</h2>
+  <div id="gs_res_ccl_mid">
+    <div>
+      <div class="gs_ri">
+        <h3 class="gs_rt"><a href="#">Deep learning</a></h3>
+        <div class="gs_a">Y LeCun, Y Bengio, G Hinton - Nature, 2015 - nature.com</div>
+      </div>
+    </div>
+    <div>
+      <div class="gs_ri">
+        <h3 class="gs_rt"><a href="#">A catalyst study</a></h3>
+        <div class="gs_a">J Smith, K Lee - Journal of the American Chemical Society, 2020 - pubs.acs.org</div>
+      </div>
+    </div>
+  </div>
+
+  <h2>③ SpringerLink 结构（#results-list &gt; li &gt; p.meta &gt; span.enumeration &gt; a[title]）</h2>
+  <ol id="results-list">
+    <li>
+      <p class="meta">
+        <span class="enumeration">
+          <a href="#" title="Nature Communications - Nature Communications">Nature Communications</a>
+        </span>
+      </p>
+    </li>
+    <li>
+      <p class="meta">
+        <span class="enumeration">
+          <a href="#" title="Advanced Materials - Adv. Mater.">Advanced Materials</a>
+        </span>
+      </p>
+    </li>
+  </ol>
+  <h2>④ PubMed 结构（article.full-docsum + span.full-journal-citation，只有缩写）</h2>
+  <article class="full-docsum">
+    <a class="docsum-title" href="#">Deep learning in medicine</a>
+    <span class="full-journal-citation">Nat Commun. 2020 Jan 4;11(1):2204.</span>
+  </article>
+  <article class="full-docsum">
+    <a class="docsum-title" href="#">A catalyst study</a>
+    <span class="full-journal-citation">J Biol Chem. 2019 May 17;294(20):1-12.</span>
+  </article>
+</body>
+</html>
