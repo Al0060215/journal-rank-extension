@@ -1,5 +1,8 @@
 # 期刊等级助手 · JournalRank
 
+[![test](https://github.com/Al0060215/journal-rank-extension/actions/workflows/test.yml/badge.svg)](https://github.com/Al0060215/journal-rank-extension/actions/workflows/test.yml)
+[![release](https://img.shields.io/github/v/release/Al0060215/journal-rank-extension)](https://github.com/Al0060215/journal-rank-extension/releases)
+
 一个**完全免费、数据全部存在本地**的 Chrome 扩展：打开知网、谷歌学术、Web of Science 等学术网站，
 它会在每篇论文旁边直接标出期刊等级 —— SCI / 北大核心 / CSSCI / 中科院分区 / 影响因子 / EI / CCF。
 
@@ -31,6 +34,21 @@
 ---
 
 ## 二、安装（约 1 分钟）
+
+**方式一：直接下载（不用装 Node、不用克隆）**
+
+去 [Releases](https://github.com/Al0060215/journal-rank-extension/releases) 下载最新的
+`journal-rank-extension-v*.zip`，解压得到一个 `extension` 文件夹，然后走下面第 1~5 步。
+
+**方式二：克隆仓库**
+
+```bash
+git clone https://github.com/Al0060215/journal-rank-extension.git
+```
+
+用克隆下来的 `extension` 文件夹，同样走下面第 1~5 步。
+
+---
 
 1. Chrome 地址栏打开 `chrome://extensions/`
 2. 右上角打开 **开发者模式**
@@ -178,15 +196,13 @@ PASS  扩展后台
 ```
 
 > **注意**：正式版 Google Chrome 从 137 起禁止了 `--load-extension`，只能用 Chrome for Testing 跑。
-> 脚本会自动去 `/tmp/cft/` 找；没有的话先下载：
+> 一行命令自动下载对应平台的版本：
 >
 > ```bash
-> cd /tmp && mkdir -p cft && cd cft
-> curl -L -o chrome.zip https://storage.googleapis.com/chrome-for-testing-public/157.0.8103.38/mac-arm64/chrome-mac-arm64.zip
-> unzip -q chrome.zip
+> node tools/install-chrome.mjs
 > ```
 >
-> Intel 机器把 `mac-arm64` 换成 `mac-x64`。
+> 它会装到 `.cache/cft/`，测试脚本会自动找到。
 
 测试原理：把 `content_scripts.matches` 临时改成 `http://*/*`（只改临时副本），
 再用 `--host-resolver-rules` 把 `kns.cnki.net` 等域名指向本地服务器，
@@ -236,7 +252,10 @@ journal-rank-extension/
 │   ├── build-data.mjs         合并原始数据 → journals.json
 │   ├── check-match.mjs        匹配回归测试（无需浏览器）
 │   ├── test-e2e.mjs           CDP 端到端测试（需要 Chrome for Testing）
+│   ├── install-chrome.mjs     下载 Chrome for Testing（跨平台）
+│   ├── package.mjs            打包成可发布的 zip
 │   ├── make-icons.mjs         生成 PNG 图标（零依赖）
+│   ├── lib/                   共用模块（Chrome 路径解析）
 │   └── raw/                   原始数据表
 ├── test/demo.html             模拟各站点结构的测试页
 └── docs/

@@ -1,0 +1,33 @@
+name: test
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 安装 Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: 下载 Chrome for Testing
+        run: node tools/install-chrome.mjs
+
+      - name: 匹配回归（无需浏览器，秒级）
+        run: node tools/check-match.mjs
+
+      - name: 端到端（真实浏览器 + 加载插件）
+        run: node tools/test-e2e.mjs

@@ -8,6 +8,8 @@
     "build": "node tools/build-data.mjs && node tools/make-icons.mjs",
     "build:data": "node tools/build-data.mjs",
     "build:icons": "node tools/make-icons.mjs",
+    "package": "node tools/package.mjs",
+    "install": "node tools/install-chrome.mjs",
     "test": "node tools/check-match.mjs && node tools/test-e2e.mjs",
     "test:match": "node tools/check-match.mjs",
     "test:e2e": "node tools/test-e2e.mjs"

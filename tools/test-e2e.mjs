@@ -20,6 +20,7 @@ import fs from "node:fs";
 import path from "node:path";
 import http from "node:http";
 import { spawn } from "node:child_process";
+import { findChrome } from "./lib/chrome.mjs";
 
 const HERE = import.meta.dirname;
 const ROOT = path.join(HERE, "..");
@@ -34,12 +35,12 @@ const CDP_PORT = 9333;
 const HEADFUL = process.argv.includes("--headful");
 const KEEP = process.argv.includes("--keep");
 
-const CFA_CANDIDATES = [
-  "/tmp/cft/chrome-mac-arm64/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing",
-  "/tmp/cft/chrome-mac-x64/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing",
-  "/tmp/cft/chrome-mac/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing",
-];
-const CHROME = CFA_CANDIDATES.find((p) => fs.existsSync(p)) || "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome";
+const chromeInfo = findChrome(ROOT);
+if (!chromeInfo) {
+  console.error("✗ 没找到任何 Chrome。先运行：node tools/install-chrome.mjs");
+  process.exit(2);
+}
+const CHROME = chromeInfo.path;
 
 const cases = [
   {
@@ -177,11 +178,11 @@ try {
   await new Promise((r) => server.listen(PORT, "127.0.0.1", r));
   console.log(`· 静态服务器 :${PORT}`);
 
-  if (CHROME.includes("Chrome for Testing")) {
-    console.log("· 使用 Chrome for Testing（支持加载未打包扩展）");
+  if (chromeInfo.isCfT) {
+    console.log(`· 使用 Chrome for Testing（${chromeInfo.from}）`);
   } else {
-    console.warn("⚠ 没找到 Chrome for Testing，退回系统 Chrome —— 正式版无法 --load-extension，测试大概率失败");
-    console.warn("  下载方式：见 README 的「测试」一节");
+    console.warn("⚠ 没找到 Chrome for Testing，退回系统 Chrome —— 正式版禁止 --load-extension，测试会失败");
+    console.warn("  先运行：node tools/install-chrome.mjs");
   }
 
   const args = [
