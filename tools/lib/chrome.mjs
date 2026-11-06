@@ -32,24 +32,38 @@ export function binaryIn(dir) {
   return fs.existsSync(p) ? p : null;
 }
 
+/** 从路径判断是不是 Chrome for Testing / Chromium 构建（只有它们支持 --load-extension） */
+export function isCfTBinary(p) {
+  return /Chrome for Testing|chrome-(linux64|win64|mac-arm64|mac-x64)/.test(String(p || ""));
+}
+
 /**
- * 依次尝试：环境变量 CHROME_BIN → 项目 .cache/cft → /tmp/cft → 系统 Chrome
+ * 查找可用的浏览器。
+ *
+ * 顺序有讲究：GitHub Actions 的 ubuntu 镜像默认设了 CHROME_BIN=/usr/bin/google-chrome，
+ * 那是正式版 Chrome，禁止 --load-extension。所以只有确认是 CfT 构建时才采信 CHROME_BIN，
+ * 否则优先用项目本地安装的那份。
+ *
  * @param {string} root 项目根目录
  */
 export function findChrome(root) {
-  if (process.env.CHROME_BIN && fs.existsSync(process.env.CHROME_BIN)) {
-    return { path: process.env.CHROME_BIN, isCfT: true, from: "CHROME_BIN" };
+  const envBin = process.env.CHROME_BIN;
+  if (envBin && fs.existsSync(envBin) && isCfTBinary(envBin)) {
+    return { path: envBin, isCfT: true, from: "CHROME_BIN" };
   }
+
   for (const dir of [path.join(root, ".cache", "cft"), "/tmp/cft"]) {
     const p = binaryIn(dir);
-    if (p) return { path: p, isCfT: true, from: dir };
+    if (p) return { path: p, isCfT: true, from: path.relative(root, p) || dir };
   }
-  const system = [
+
+  const system = [envBin, 
     "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
     "/usr/bin/google-chrome",
     "/usr/bin/google-chrome-stable",
     "/usr/bin/chromium",
     "/usr/bin/chromium-browser",
-  ].find((p) => fs.existsSync(p));
+  ].filter(Boolean).find((p) => fs.existsSync(p));
+
   return system ? { path: system, isCfT: false, from: "系统 Chrome" } : null;
 }
